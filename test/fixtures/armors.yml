@@ -1,0 +1,36 @@
+# == Schema Information
+#
+# Table name: armors
+#
+#  id             :integer          not null, primary key
+#  name           :string
+#  sex            :integer
+#  klass          :integer
+#  rarity         :integer
+#  slots          :integer          default("0"), not null
+#  avail_online   :integer
+#  avail_offline  :integer
+#  initial_def    :integer
+#  final_def      :integer
+#  fire_resist    :integer
+#  water_resist   :integer
+#  thunder_resist :integer
+#  ice_resist     :integer
+#  dragon_resist  :integer
+#  created_at     :datetime         not null
+#  updated_at     :datetime         not null
+#  user_id        :integer
+#  armor_type     :string
+#
+
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+# This model initially had no columns defined.  If you add columns to the
+# model remove the '{}' from the fixture names and add the columns immediately
+# below each fixture, per the syntax in the comments below
+#
+one: {}
+# column: value
+#
+two: {}
+#  column: value

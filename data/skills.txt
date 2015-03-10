@@ -1,0 +1,144 @@
+Poison
+Paralysis
+Sleep
+Faint
+Snow/Mud Res
+Defense Lock
+Biology
+Attack
+Defense
+Health
+Rec Speed
+Protection
+Sheathing
+Fast Charge
+Expert
+Tenderizer
+Destroyer
+KO
+Stamina Drain
+Constitution
+Hearing
+Wind Res
+Tremor Res
+Heat Res
+Cold Res
+Stamina
+Stamina Recovery
+Evasion
+Evade Distance
+Sense
+Guard
+Guard Up
+Status
+Elemental Attack
+Fire Attack
+Water Attack
+Thunder Attack
+Ice Attack
+Dragon Attack
+Fire Res
+Water Res
+Thunder Res
+Ice Res
+Dragon Res
+Sharpness
+Handicraft
+Sharpening Speed
+Punishing Draw
+Critical Draw
+Fencing
+Reload Speed
+Loading
+Rapid Fire
+Recoil
+Precision
+Normal Up
+Pierce Up
+Pellet Up
+Normal S+
+Pierce S+
+Pellet S+
+Crag S+
+Clust S+
+Slicing S+
+Slime S+
+Poison C+
+Paralysis C+
+Sleep C+
+Power C+
+C.Range C+
+Exhaust C+
+Slime C+
+Maestro
+Artillery
+Bomb Boost
+Recovery Level
+Wide Range
+Lasting Power
+Hunger
+Gluttony
+Eating
+Carnivore
+Combo Rate
+Combo Plus
+Gathering
+Speed Gather
+Whim
+Honey
+Charmer
+Fate
+Carving
+Tranquilizer
+Perception
+Psychic
+Transporter
+Ranger
+Anti-Theft
+Speed Setup
+Flame Aura
+Potential
+Survivor
+Gloves Off
+Spirit
+Unscathed
+Free Element
+Guts
+Team Player
+Team Leader
+Auto-Guard
+Blight Res
+Status Res
+Fury
+Edgemaster
+Steadyhand
+Unshakable
+Single-Minded
+Firm Defence
+Greedy
+Infection Res
+Precise Attack
+Commander
+Rider
+Martial Arts
+Acrobat
+Shielder
+Finesse
+Charm Collector
+Amplifier
+Bleed Res
+Diet
+Mushrooms
+Appetite
+Sticky Res
+Range Extend
+Tricksy
+Blade
+Status Crit
+Elemental Crit
+Sticky Fighter
+Hidden Power
+Trap Master
+Hard Hitting
+Prayer
+Torso Up

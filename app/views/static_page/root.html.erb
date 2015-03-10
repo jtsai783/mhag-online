@@ -1,0 +1,9 @@
+<div id="main-content" class="container">
+</div>
+
+
+
+<script>
+	var skillList = JSON.parse(<%= raw json_escape(@active_skills.to_json) %>);
+	var skillPointList = JSON.parse(<%= raw json_escape(@skills.to_json) %>);
+</script>

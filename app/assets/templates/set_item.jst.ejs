@@ -1,0 +1,67 @@
+<% var total = set.get('total')%>
+<% var armor_set = set.get('set')%>
+<% var decs = set.get('dec') %>
+
+<table class='table'>
+	<tr>
+		<th>Head</th>
+		<td><%= armor_set.h.name %></td>
+		<% if (armor_set.h.name != "Any 3 Slot") { %>
+		<td><span data-name="<%= armor_set.h.name %>" data-armor-id="<%= armor_set.h.id %>" class="glyphicon glyphicon-ban-circle" aria-hidden="true"></span></td>
+		<% } %>
+	</tr>
+	<tr>
+		<th>Body</th>
+		<td><%= armor_set.b.name %></td>
+		<% if (armor_set.b.name != "Any 3 Slot") { %>
+		<td><span data-name="<%= armor_set.b.name %>" data-armor-id="<%= armor_set.b.id %>" class="glyphicon glyphicon-ban-circle" aria-hidden="true"></span></td>
+		<% } %>
+	</tr>
+	<tr>
+		<th>Arms</th>
+		<td><%= armor_set.a.name %></td>
+		<% if (armor_set.a.name != "Any 3 Slot") { %>
+		<td><span data-name="<%= armor_set.a.name %>" data-armor-id="<%= armor_set.a.id %>" class="glyphicon glyphicon-ban-circle" aria-hidden="true"></span></td>
+		<% } %>
+	</tr>
+	<tr>
+		<th>Waist</th>
+		<td><%= armor_set.w.name %></td>
+		<% if (armor_set.w.name != "Any 3 Slot") { %>
+		<td><span data-name="<%= armor_set.w.name %>" data-armor-id="<%= armor_set.w.id %>" class="glyphicon glyphicon-ban-circle" aria-hidden="true"></span></td>
+		<% } %>
+	</tr>
+	<tr>
+		<th>Legs</th>
+		<td><%= armor_set.l.name %></td>
+		<% if (armor_set.l.name != "Any 3 Slot") { %>
+		<td><span data-name="<%= armor_set.l.name %>" data-armor-id="<%= armor_set.l.id %>" class="glyphicon glyphicon-ban-circle" aria-hidden="true"></span></td>
+		<% } %>
+	</tr>
+</table>
+
+<table class='table'>
+	<tr>
+		<th>Decoration</th>
+		<th>Needs</th>
+	</tr>
+	<% _.each(decs, function(dec){ %>
+	<tr>
+		<td><%= dec[0] %></td>
+		<td><%= dec[1] %></td>
+	</tr>
+	<% }); %>
+</table>
+
+<table class='table'>
+	<tr>
+		<th>Skill</th>
+		<th>Points</th>
+	</tr>
+	<% _.each(total, function(single){ %>
+	<tr>
+		<td><%= single[0] %></td>
+		<td><%= single[1] %></td>
+	</tr>
+	<% }); %>
+</table>
