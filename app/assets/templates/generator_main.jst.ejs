@@ -2,45 +2,79 @@
 	<div class='col-md-4'>
 		<div class="row">
 			<div class='options col-md-12'>
-				<div class='skill-selects'>
-					<select class="skill-select form-control">
-						<% _.each(skillList, function(){ %>
-						<option value="<%= arguments[0].id %>"><%= arguments[0].name %></option>
-						<% }); %>
-					</select>
+				<div class="row">
+					<div class='col-md-12'>
+						<div class="row">
+							<div class="col-xs-6">
+								<select class="klass-select form-control">
+									<option value="1">Blademaster</option>
+									<option value="2">Gunner</option>
+								</select>
+							</div>
+							<div class="col-xs-6">
+								<select class="gender-select form-control">
+									<option value="1">Male</option>
+									<option value="2">Female</option>
+								</select>
+							</div>
+						</div>
+						<div class='skill-selects'>
+							<select class="skill-select form-control">
+								<% _.each(skillList, function(){ %>
+								<option value="<%= arguments[0].id %>"><%= arguments[0].name %></option>
+								<% }); %>
+							</select>
+						</div>
+						<button type="button" class="add-skill btn btn-default"><span class="glyphicon glyphicon-plus"></span></button>
+						<button type="button" class="remove-skill btn btn-default"><span class="glyphicon glyphicon-minus"></span></button>
+					</div>
 				</div>
-				<button type="button" class="add-skill btn btn-default"><span class="glyphicon glyphicon-plus"></span></button>
-				<button type="button" class="remove-skill btn btn-default"><span class="glyphicon glyphicon-minus"></span></button>
-				<select class="skill-tree-select-1 form-control">
-					<option></option>
-					<% _.each(skillPointList, function(){ %>
-					<option value="<%= arguments[0].id %>"><%= arguments[0].name %></option>
-					<% }); %>
-				</select>
-				<select class="skill-point-select-1 form-control">
-					<option></option>
-					<% for (i = 20; i >= -20; i--){ %>
-					<option value="<%= i %>"><%= i %></option>
-					<% } %>
-				</select>
-				<select class="skill-tree-select-2 form-control">
-					<option></option>
-					<% _.each(skillPointList, function(){ %>
-					<option value="<%= arguments[0].id %>"><%= arguments[0].name %></option>
-					<% }); %>
-				</select>
-				<select class="skill-point-select-2 form-control">
-					<option></option>
-					<% for (i = 20; i >= -20; i--){ %>
-					<option value="<%= i %>"><%= i %></option>
-					<% } %>
-				</select>
-
-				<select class="charm-slots form-control">
-					<% for (i = 0; i <= 3; i++){ %>
-					<option value="<%= i %>"><%= i %></option>
-					<% } %>
-				</select>
+				<h4>Charm</h4>
+				<div class="row">
+					<div class="col-xs-3">
+						<select class="charm-slots form-control">
+							<% for (i = 0; i <= 3; i++){ %>
+							<option value="<%= i %>"><%= i %></option>
+							<% } %>
+						</select>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-xs-6">
+						<select class="skill-tree-select-1 form-control">
+							<option></option>
+							<% _.each(skillPointList, function(){ %>
+							<option value="<%= arguments[0].id %>"><%= arguments[0].name %></option>
+							<% }); %>
+						</select>
+					</div>
+					<div class="col-xs-6">
+						<select class="skill-point-select-1 form-control">
+							<option></option>
+							<% for (i = 20; i >= -20; i--){ %>
+							<option value="<%= i %>"><%= i %></option>
+							<% } %>
+						</select>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-xs-6">
+						<select class="skill-tree-select-2 form-control">
+							<option></option>
+							<% _.each(skillPointList, function(){ %>
+							<option value="<%= arguments[0].id %>"><%= arguments[0].name %></option>
+							<% }); %>
+						</select>
+					</div>
+					<div class="col-xs-6">
+						<select class="skill-point-select-2 form-control">
+							<option></option>
+							<% for (i = 20; i >= -20; i--){ %>
+							<option value="<%= i %>"><%= i %></option>
+							<% } %>
+						</select>
+					</div>
+				</div>
 				<button class="get-sets btn btn-default">Search</button>
 			</div>
 		</div>

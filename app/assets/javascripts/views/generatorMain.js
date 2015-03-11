@@ -25,6 +25,8 @@ MhagV2.Views.GeneratorMain = Backbone.CompositeView.extend({
 	},
 
 	fetchSets: function () {
+		var klass = $('select.klass-select')[0].value;
+		var gender = $('select.gender-select')[0].value;
 		this.clearList();
 		var charm = this.makeCharm();
 		MhagV2.armorSets.reset();
@@ -45,7 +47,9 @@ MhagV2.Views.GeneratorMain = Backbone.CompositeView.extend({
 			data: {
 				banList: currentBannedId,
 				skillSelects: selectedSkills,
-				charm: JSON.stringify(charm)
+				charm: JSON.stringify(charm),
+				klass: klass,
+				gender: gender
 			},
 			processData: true
 		});
@@ -88,7 +92,7 @@ MhagV2.Views.GeneratorMain = Backbone.CompositeView.extend({
 		var that = this;
 		var subviews = this.subviews('.armor-set-index');
 		_.each(subviews, function(){
-			arguments[0].remove()
+			arguments[0].remove();
 		});
 	},
 

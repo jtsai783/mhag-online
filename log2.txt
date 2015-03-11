@@ -1862,3 +1862,75 @@
 {}
 #<Armor id: 2175, name: "Gore EX Cap", sex: 0, klass: 0, rarity: 7, slots: 2, avail_online: 8, avail_offline: 99, initial_def: 29, final_def: 80, fire_resist: -4, water_resist: 4, thunder_resist: -2, ice_resist: 3, dragon_resist: -1, created_at: "2015-03-07 21:08:03", updated_at: "2015-03-07 21:08:03", user_id: nil, armor_type: "h">
 {8=>2, 116=>3, 90=>2, 46=>-3}
+{}
+#<Armor id: 1614, name: "Najarala Greaves Z", sex: 0, klass: 1, rarity: 8, slots: 3, avail_online: 9, avail_offline: 99, initial_def: 88, final_def: 139, fire_resist: -5, water_resist: 3, thunder_resist: -3, ice_resist: 4, dragon_resist: 3, created_at: "2015-03-07 21:05:39", updated_at: "2015-03-07 21:05:39", user_id: nil, armor_type: "l">
+{93=>1, 103=>1, 140=>5, 119=>-2}
+{}
+#<Armor id: 2391, name: "Helios Cap X", sex: 1, klass: 0, rarity: 10, slots: 3, avail_online: 11, avail_offline: 99, initial_def: 62, final_def: 98, fire_resist: 1, water_resist: 4, thunder_resist: -1, ice_resist: 2, dragon_resist: -4, created_at: "2015-03-07 21:08:17", updated_at: "2015-03-07 21:08:17", user_id: nil, armor_type: "h">
+{61=>4, 71=>2, 140=>3, 91=>-2}
+{}
+#<Armor id: 2392, name: "Selene Helm X", sex: 2, klass: 0, rarity: 10, slots: 3, avail_online: 11, avail_offline: 99, initial_def: 108, final_def: 150, fire_resist: 0, water_resist: 3, thunder_resist: -2, ice_resist: 1, dragon_resist: -5, created_at: "2015-03-07 21:08:17", updated_at: "2015-03-07 21:08:17", user_id: nil, armor_type: "h">
+{58=>2, 61=>4, 140=>3, 91=>-2}
+{}
+#<Armor id: 2393, name: "Selene Cap X", sex: 2, klass: 0, rarity: 10, slots: 3, avail_online: 11, avail_offline: 99, initial_def: 62, final_def: 98, fire_resist: 1, water_resist: 4, thunder_resist: -1, ice_resist: 2, dragon_resist: -4, created_at: "2015-03-07 21:08:17", updated_at: "2015-03-07 21:08:17", user_id: nil, armor_type: "h">
+{61=>4, 71=>2, 140=>3, 91=>-2}
+{}
+#<Armor id: 2390, name: "Helios Helm X", sex: 1, klass: 0, rarity: 10, slots: 3, avail_online: 11, avail_offline: 99, initial_def: 108, final_def: 150, fire_resist: 0, water_resist: 3, thunder_resist: -2, ice_resist: 1, dragon_resist: -5, created_at: "2015-03-07 21:08:17", updated_at: "2015-03-07 21:08:17", user_id: nil, armor_type: "h">
+{58=>2, 61=>4, 140=>3, 91=>-2}
+{}
+#<Armor id: 2399, name: "Sky Circlet", sex: 0, klass: 0, rarity: 10, slots: 3, avail_online: 12, avail_offline: 99, initial_def: 65, final_def: 98, fire_resist: -2, water_resist: 5, thunder_resist: 0, ice_resist: 0, dragon_resist: -4, created_at: "2015-03-07 21:08:18", updated_at: "2015-03-07 21:08:18", user_id: nil, armor_type: "h">
+{71=>1, 140=>3, 32=>-3, 35=>3}
+{}
+#<Armor id: 2258, name: "Cayenne Hair Tie", sex: 0, klass: 0, rarity: 8, slots: 2, avail_online: 9, avail_offline: 99, initial_def: 45, final_def: 88, fire_resist: -1, water_resist: 5, thunder_resist: -1, ice_resist: 4, dragon_resist: 3, created_at: "2015-03-07 21:08:09", updated_at: "2015-03-07 21:08:09", user_id: nil, armor_type: "h">
+{60=>3, 140=>4, 124=>3}
+{}
+#<Armor id: 1181, name: "Selene Mail X", sex: 2, klass: 1, rarity: 10, slots: 2, avail_online: 11, avail_offline: 99, initial_def: 108, final_def: 150, fire_resist: 0, water_resist: 3, thunder_resist: -2, ice_resist: 1, dragon_resist: -5, created_at: "2015-03-07 21:02:57", updated_at: "2015-03-07 21:02:57", user_id: nil, armor_type: "b">
+{61=>2, 28=>2, 140=>4, 91=>-2}
+{}
+#<Armor id: 2257, name: "Hokusin Hair Tie", sex: 0, klass: 0, rarity: 8, slots: 2, avail_online: 9, avail_offline: 99, initial_def: 84, final_def: 135, fire_resist: -2, water_resist: 4, thunder_resist: -2, ice_resist: 3, dragon_resist: 2, created_at: "2015-03-07 21:08:09", updated_at: "2015-03-07 21:08:09", user_id: nil, armor_type: "h">
+{60=>2, 140=>4, 124=>3}
+{}
+#<Armor id: 438, name: "Hokusin Sleeves", sex: 0, klass: 1, rarity: 8, slots: 2, avail_online: 9, avail_offline: 99, initial_def: 84, final_def: 135, fire_resist: -2, water_resist: 4, thunder_resist: -2, ice_resist: 3, dragon_resist: 2, created_at: "2015-03-07 20:59:26", updated_at: "2015-03-07 20:59:26", user_id: nil, armor_type: "a">
+{60=>4, 140=>4, 124=>2}
+{}
+#<Armor id: 1782, name: "Selene Greaves X", sex: 2, klass: 1, rarity: 10, slots: 2, avail_online: 11, avail_offline: 99, initial_def: 108, final_def: 150, fire_resist: 0, water_resist: 3, thunder_resist: -2, ice_resist: 1, dragon_resist: -5, created_at: "2015-03-07 21:05:50", updated_at: "2015-03-07 21:05:50", user_id: nil, armor_type: "l">
+{58=>2, 61=>2, 28=>2, 140=>4, 91=>-2}
+{}
+#<Armor id: 1648, name: "Hokusin Hakama", sex: 0, klass: 1, rarity: 8, slots: 2, avail_online: 9, avail_offline: 99, initial_def: 84, final_def: 135, fire_resist: -2, water_resist: 4, thunder_resist: -2, ice_resist: 3, dragon_resist: 2, created_at: "2015-03-07 21:05:41", updated_at: "2015-03-07 21:05:41", user_id: nil, armor_type: "l">
+{60=>5, 140=>4, 124=>2}
+{}
+#<Armor id: 1546, name: "Blue Star Boots", sex: 0, klass: 1, rarity: 7, slots: 2, avail_online: 1, avail_offline: 99, initial_def: 26, final_def: 116, fire_resist: 1, water_resist: 1, thunder_resist: 1, ice_resist: 1, dragon_resist: 1, created_at: "2015-03-07 21:05:35", updated_at: "2015-03-07 21:05:35", user_id: nil, armor_type: "l">
+{116=>2, 140=>4, 128=>2}
+{}
+#<Armor id: 1780, name: "Helios Greaves X", sex: 1, klass: 1, rarity: 10, slots: 2, avail_online: 11, avail_offline: 99, initial_def: 108, final_def: 150, fire_resist: 0, water_resist: 3, thunder_resist: -2, ice_resist: 1, dragon_resist: -5, created_at: "2015-03-07 21:05:50", updated_at: "2015-03-07 21:05:50", user_id: nil, armor_type: "l">
+{58=>2, 61=>2, 28=>2, 140=>4, 91=>-2}
+{}
+#<Armor id: 1179, name: "Helios Mail X", sex: 1, klass: 1, rarity: 10, slots: 2, avail_online: 11, avail_offline: 99, initial_def: 108, final_def: 150, fire_resist: 0, water_resist: 3, thunder_resist: -2, ice_resist: 1, dragon_resist: -5, created_at: "2015-03-07 21:02:57", updated_at: "2015-03-07 21:02:57", user_id: nil, armor_type: "b">
+{61=>2, 28=>2, 140=>4, 91=>-2}
+{}
+#<Armor id: 2546, name: "Ioprey Faulds S", sex: 0, klass: 1, rarity: 4, slots: 1, avail_online: 5, avail_offline: 8, initial_def: 44, final_def: 119, fire_resist: 0, water_resist: -4, thunder_resist: -4, ice_resist: 3, dragon_resist: 3, created_at: "2015-03-07 21:09:45", updated_at: "2015-03-07 21:09:45", user_id: nil, armor_type: "w">
+{120=>1, 84=>5, 40=>-2}
+{}
+#<Armor id: 2452, name: "Ioprey Faulds", sex: 0, klass: 1, rarity: 2, slots: 1, avail_online: 3, avail_offline: 5, initial_def: 15, final_def: 117, fire_resist: 0, water_resist: -3, thunder_resist: -3, ice_resist: 2, dragon_resist: 2, created_at: "2015-03-07 21:09:40", updated_at: "2015-03-07 21:09:40", user_id: nil, armor_type: "w">
+{120=>1, 84=>5, 40=>-2}
+{}
+#<Armor id: 404, name: "Najarala Vambraces Z", sex: 0, klass: 1, rarity: 8, slots: 1, avail_online: 9, avail_offline: 99, initial_def: 88, final_def: 139, fire_resist: -5, water_resist: 3, thunder_resist: -3, ice_resist: 4, dragon_resist: 3, created_at: "2015-03-07 20:59:24", updated_at: "2015-03-07 20:59:24", user_id: nil, armor_type: "a">
+{93=>2, 103=>4, 140=>5, 119=>-2}
+{}
+#<Armor id: 2793, name: "Ioprey Faulds X", sex: 0, klass: 1, rarity: 8, slots: 1, avail_online: 9, avail_offline: 99, initial_def: 80, final_def: 135, fire_resist: 0, water_resist: -4, thunder_resist: -4, ice_resist: 3, dragon_resist: 3, created_at: "2015-03-07 21:10:00", updated_at: "2015-03-07 21:10:00", user_id: nil, armor_type: "w">
+{120=>2, 84=>5, 40=>-2}
+{}
+#<Armor id: 2196, name: "Kecha Cap X", sex: 0, klass: 0, rarity: 8, slots: 0, avail_online: 9, avail_offline: 99, initial_def: 40, final_def: 86, fire_resist: -4, water_resist: 4, thunder_resist: -2, ice_resist: 1, dragon_resist: 4, created_at: "2015-03-07 21:08:04", updated_at: "2015-03-07 21:08:04", user_id: nil, armor_type: "h">
+{42=>-1, 140=>6, 23=>2, 142=>2}
+{}
+#<Armor id: 2195, name: "Kecha Helm X", sex: 0, klass: 0, rarity: 8, slots: 0, avail_online: 9, avail_offline: 99, initial_def: 74, final_def: 131, fire_resist: -5, water_resist: 3, thunder_resist: -3, ice_resist: 0, dragon_resist: 3, created_at: "2015-03-07 21:08:04", updated_at: "2015-03-07 21:08:04", user_id: nil, armor_type: "h">
+{42=>-2, 140=>6, 23=>2, 142=>2}
+{}
+#<Armor id: 2999, name: "Storm Waist", sex: 0, klass: 1, rarity: 10, slots: 3, avail_online: 12, avail_offline: 99, initial_def: 112, final_def: 152, fire_resist: -3, water_resist: 4, thunder_resist: 0, ice_resist: 0, dragon_resist: -5, created_at: "2015-03-07 21:10:13", updated_at: "2015-03-07 21:10:13", user_id: nil, armor_type: "w">
+{58=>1, 52=>3, 140=>2, 32=>-2}
+{}
+#<Armor id: 1325, name: "Ioprey Greaves S", sex: 0, klass: 1, rarity: 4, slots: 3, avail_online: 5, avail_offline: 8, initial_def: 44, final_def: 119, fire_resist: 0, water_resist: -4, thunder_resist: -4, ice_resist: 3, dragon_resist: 3, created_at: "2015-03-07 21:05:22", updated_at: "2015-03-07 21:05:22", user_id: nil, armor_type: "l">
+{120=>1, 84=>2, 40=>-2}
+{}
+#<Armor id: 1580, name: "Ioprey Greaves X", sex: 0, klass: 1, rarity: 8, slots: 3, avail_online: 9, avail_offline: 99, initial_def: 80, final_def: 135, fire_resist: 0, water_resist: -4, thunder_resist: -4, ice_resist: 3, dragon_resist: 3, created_at: "2015-03-07 21:05:37", updated_at: "2015-03-07 21:05:37", user_id: nil, armor_type: "l">
+{49=>2, 120=>1, 84=>2, 40=>-2}

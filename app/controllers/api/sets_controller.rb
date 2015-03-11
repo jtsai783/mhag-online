@@ -2,50 +2,61 @@ module Api
 	class SetsController < ApplicationController
 		def show
 			skill_hash = build_skill_hash
-			
+			klass = params["klass"]
+			gender = params["gender"]
+
 			@set_list = []
 			if skill_hash != {}
+				
 				neg_armor_arr = get_neg_armor_id(skill_hash)
 				if !params["banList"].nil?
 					neg_armor_arr = neg_armor_arr.concat(params["banList"])
 				end
-				seed_armors = get_seed_armor(skill_hash, neg_armor_arr)
+				seed_armors = get_seed_armor(skill_hash, neg_armor_arr, klass, gender)
 				seed_armor_index = 0
 				seed_armor_length = seed_armors.length
 				charm_arr = JSON.parse(params["charm"])
+				
+				File.open('./log.txt', "w") { |file| file.puts "checking for stuff"  }
 				while @set_list.length < 20 && seed_armor_index < seed_armor_length
+					File.open('./log.txt', "a") { |file| file.puts "#{@set_list.length}, #{seed_armor_index}, #{seed_armor_length} \n"  }
 					current_set = Hash.new
-					current_set["weapon"] = Armor.new(slots: 0)
-					current_set["t"] = Armor.new(slots: charm_arr[0])
 					running_total = Hash.new(0)
 					current_decs = Hash.new { |h, k| h[k] = [] }
+
+					current_set["weapon"] = Armor.new(slots: 0)
+					current_set["t"] = Armor.new(slots: charm_arr[0])
+
 					charm_arr.each_with_index do |skill, index|
 						if index > 0
 							running_total[skill[0]] += skill[1]
 						end
 					end
-					File.open('./log2.txt', 'a') do |f|
-						f.puts running_total.inspect
-					end
+
 					seed_armor = seed_armors[seed_armor_index]
 					fit_armor(current_set, seed_armor)
-					File.open('./log2.txt', 'a') do |f|
-						f.puts seed_armor.inspect
-					end
 					add_armor_to_total(running_total, seed_armor)
-					File.open('./log2.txt', 'a') do |f|
-						f.puts running_total.inspect
-					end
-					get_armor_set(running_total, skill_hash, current_set, neg_armor_arr)
+
+					get_armor_set(running_total, skill_hash, current_set, neg_armor_arr, klass, gender)
 					dec_list = dec_armor_set(running_total, skill_hash, current_set, current_decs)
 					dec_name_hash = dec_id_to_name(dec_list)
 					skill_name_hash = skill_id_to_name(running_total)
 					if !set_include?(@set_list, current_set)
-						@set_list << {set: current_set, total: skill_name_hash, dec: dec_name_hash}
+						@set_list << {set: current_set, total: skill_name_hash, dec: dec_name_hash, running: running_total}
 					end
 					seed_armor_index += 1
 				end
+
+				@set_list = @set_list.sort_by do |set|
+					sum = 0
+					skill_hash.each do |k, v|
+						sum += set[:running][k]
+					end
+					-sum
+				end
 			end
+
+
 			render json: @set_list
 		end
 
@@ -174,12 +185,12 @@ module Api
 			sum
 		end
 
-		def get_armor_set(running_total, skill_hash, current_set, neg_armor_arr)
+		def get_armor_set(running_total, skill_hash, current_set, neg_armor_arr, klass, gender)
 			set_arr = ['h', 'b', 'a', 'w', 'l', 't']
 			while (set_arr - current_set.keys).length > 0
 				next_skill = calculate_next_skill(running_total, skill_hash, [])
 				if !next_skill.nil?
-					next_armor = get_armor(next_skill, current_set, neg_armor_arr)
+					next_armor = get_armor(next_skill, current_set, neg_armor_arr, klass, gender)
 				else
 					next_armor = nil
 				end
@@ -217,7 +228,12 @@ module Api
 			end
 		end
 
-		def get_armor(skill, current_set, neg_armor_list)
+		def get_armor(skill, current_set, neg_armor_list, klass, gender)
+			klass = klass.to_i
+			klass_arr = [0, klass]
+
+			gender = gender.to_i
+			gender_arr = [0, gender]
 			join_str = <<-sql
 			INNER JOIN armor_skills
 			ON armor_skills.skill_id = #{skill}
@@ -231,7 +247,8 @@ module Api
 			.order('sum(points) + armors.slots * 1.1 DESC')
 			.where.not(armor_type: current_set.keys)
 			.where.not(id: neg_armor_list)
-			.where(klass: [0, 1])
+			.where(klass: klass_arr)
+			.where(sex: gender_arr)
 			.first
 		end
 
@@ -248,7 +265,12 @@ module Api
 			.where("slots <= #{max}")
 		end
 
-		def get_seed_armor(skill_hash, neg_armor_list)
+		def get_seed_armor(skill_hash, neg_armor_list, klass, gender)
+			klass = klass.to_i
+			klass_arr = [0, klass]
+
+			gender = gender.to_i
+			gender_arr = [0, gender]
 			skill_str = skill_hash.keys.join(',')
 			join_str = <<-sql
 			INNER JOIN armor_skills
@@ -262,7 +284,8 @@ module Api
 			.having('sum(points) + armors.slots * 1.1 > 3 * 1.1')
 			.order('sum(points) + armors.slots * 1.1 DESC')
 			.where.not(id: neg_armor_list)
-			.where(klass: [0, 1])
+			.where(klass: klass_arr)
+			.where(sex: gender_arr)
 		end
 
 		def get_neg_armor_id(skill_hash)

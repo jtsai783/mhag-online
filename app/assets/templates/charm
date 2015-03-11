@@ -1,0 +1,45 @@
+<div class="row">
+		<div class="col-xs-4">
+		<select class="charm-slots form-control">
+			<% for (i = 0; i <= 3; i++){ %>
+			<option value="<%= i %>"><%= i %></option>
+			<% } %>
+		</select>
+	</div>
+</div>
+<div class="row">
+	<div class="col-xs-4">
+		<select class="skill-tree-select-1 form-control">
+			<option></option>
+			<% _.each(skillPointList, function(){ %>
+			<option value="<%= arguments[0].id %>"><%= arguments[0].name %></option>
+			<% }); %>
+		</select>
+	</div>
+	<div class="col-xs-1">
+		<select class="skill-point-select-1 form-control">
+			<option></option>
+			<% for (i = 20; i >= -20; i--){ %>
+			<option value="<%= i %>"><%= i %></option>
+			<% } %>
+		</select>
+	</div>
+</div>
+<div class="row">
+		<div class="col-xs-6">
+		<select class="skill-tree-select-1 form-control">
+			<option></option>
+			<% _.each(skillPointList, function(){ %>
+			<option value="<%= arguments[0].id %>"><%= arguments[0].name %></option>
+			<% }); %>
+		</select>
+	</div>
+	<div class="col-xs-6">
+		<select class="skill-point-select-2 form-control">
+			<option></option>
+			<% for (i = 20; i >= -20; i--){ %>
+			<option value="<%= i %>"><%= i %></option>
+			<% } %>
+		</select>
+	</div>
+</div>
