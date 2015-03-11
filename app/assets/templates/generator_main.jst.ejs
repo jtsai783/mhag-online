@@ -2,50 +2,15 @@
 	<div class='col-md-4'>
 		<div class="row">
 			<div class='options col-md-12'>
-				<select class="skill-select form-control">
-					<option></option>
-					<% _.each(skillList, function(){ %>
-					<option value="<%= arguments[0].id %>"><%= arguments[0].name %></option>
-					<% }); %>
-				</select>
-				<select class="skill-select form-control">
-					<option></option>
-					<% _.each(skillList, function(){ %>
-					<option value="<%= arguments[0].id %>"><%= arguments[0].name %></option>
-					<% }); %>
-				</select>
-								<select class="skill-select form-control">
-					<option></option>
-					<% _.each(skillList, function(){ %>
-					<option value="<%= arguments[0].id %>"><%= arguments[0].name %></option>
-					<% }); %>
-				</select>
-				<select class="skill-select form-control">
-					<option></option>
-					<% _.each(skillList, function(){ %>
-					<option value="<%= arguments[0].id %>"><%= arguments[0].name %></option>
-					<% }); %>
-				</select>
-								<select class="skill-select form-control">
-					<option></option>
-					<% _.each(skillList, function(){ %>
-					<option value="<%= arguments[0].id %>"><%= arguments[0].name %></option>
-					<% }); %>
-				</select>
-				<select class="skill-select form-control">
-					<option></option>
-					<% _.each(skillList, function(){ %>
-					<option value="<%= arguments[0].id %>"><%= arguments[0].name %></option>
-					<% }); %>
-				</select>
-				<select class="skill-select form-control">
-					<option></option>
-					<% _.each(skillList, function(){ %>
-					<option value="<%= arguments[0].id %>"><%= arguments[0].name %></option>
-					<% }); %>
-				</select>
-
-
+				<div class='skill-selects'>
+					<select class="skill-select form-control">
+						<% _.each(skillList, function(){ %>
+						<option value="<%= arguments[0].id %>"><%= arguments[0].name %></option>
+						<% }); %>
+					</select>
+				</div>
+				<button type="button" class="add-skill btn btn-default"><span class="glyphicon glyphicon-plus"></span></button>
+				<button type="button" class="remove-skill btn btn-default"><span class="glyphicon glyphicon-minus"></span></button>
 				<select class="skill-tree-select-1 form-control">
 					<option></option>
 					<% _.each(skillPointList, function(){ %>
@@ -58,7 +23,6 @@
 					<option value="<%= i %>"><%= i %></option>
 					<% } %>
 				</select>
-
 				<select class="skill-tree-select-2 form-control">
 					<option></option>
 					<% _.each(skillPointList, function(){ %>

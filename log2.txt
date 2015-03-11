@@ -1511,3 +1511,354 @@
 {}
 #<Armor id: 1632, name: "Basarios Greaves Z", sex: 0, klass: 1, rarity: 8, slots: 2, avail_online: 10, avail_offline: 99, initial_def: 88, final_def: 139, fire_resist: 0, water_resist: -2, thunder_resist: 0, ice_resist: -3, dragon_resist: 1, created_at: "2015-03-07 21:05:40", updated_at: "2015-03-07 21:05:40", user_id: nil, armor_type: "l">
 {1=>2, 55=>2, 62=>1, 84=>2, 77=>-2}
+{}
+#<Armor id: 2197, name: "Kecha Helm Z", sex: 0, klass: 0, rarity: 8, slots: 2, avail_online: 9, avail_offline: 99, initial_def: 76, final_def: 133, fire_resist: 3, water_resist: -5, thunder_resist: -2, ice_resist: -3, dragon_resist: 3, created_at: "2015-03-07 21:08:04", updated_at: "2015-03-07 21:08:04", user_id: nil, armor_type: "h">
+{27=>3, 45=>5, 141=>-2, 23=>2}
+{}
+#<Armor id: 2198, name: "Kecha Cap Z", sex: 0, klass: 0, rarity: 8, slots: 2, avail_online: 9, avail_offline: 99, initial_def: 41, final_def: 87, fire_resist: 4, water_resist: -4, thunder_resist: -1, ice_resist: -2, dragon_resist: 4, created_at: "2015-03-07 21:08:04", updated_at: "2015-03-07 21:08:04", user_id: nil, armor_type: "h">
+{27=>3, 45=>6, 141=>-2, 23=>2}
+{}
+#<Armor id: 987, name: "Kecha Mail Z", sex: 0, klass: 1, rarity: 8, slots: 2, avail_online: 9, avail_offline: 99, initial_def: 76, final_def: 133, fire_resist: 3, water_resist: -5, thunder_resist: -2, ice_resist: -3, dragon_resist: 3, created_at: "2015-03-07 21:02:44", updated_at: "2015-03-07 21:02:44", user_id: nil, armor_type: "b">
+{27=>2, 45=>5, 141=>-1, 23=>2}
+{}
+#<Armor id: 2546, name: "Ioprey Faulds S", sex: 0, klass: 1, rarity: 4, slots: 1, avail_online: 5, avail_offline: 8, initial_def: 44, final_def: 119, fire_resist: 0, water_resist: -4, thunder_resist: -4, ice_resist: 3, dragon_resist: 3, created_at: "2015-03-07 21:09:45", updated_at: "2015-03-07 21:09:45", user_id: nil, armor_type: "w">
+{120=>1, 84=>5, 40=>-2}
+{}
+#<Armor id: 2452, name: "Ioprey Faulds", sex: 0, klass: 1, rarity: 2, slots: 1, avail_online: 3, avail_offline: 5, initial_def: 15, final_def: 117, fire_resist: 0, water_resist: -3, thunder_resist: -3, ice_resist: 2, dragon_resist: 2, created_at: "2015-03-07 21:09:40", updated_at: "2015-03-07 21:09:40", user_id: nil, armor_type: "w">
+{120=>1, 84=>5, 40=>-2}
+{}
+#<Armor id: 2793, name: "Ioprey Faulds X", sex: 0, klass: 1, rarity: 8, slots: 1, avail_online: 9, avail_offline: 99, initial_def: 80, final_def: 135, fire_resist: 0, water_resist: -4, thunder_resist: -4, ice_resist: 3, dragon_resist: 3, created_at: "2015-03-07 21:10:00", updated_at: "2015-03-07 21:10:00", user_id: nil, armor_type: "w">
+{120=>2, 84=>5, 40=>-2}
+{}
+#<Armor id: 1580, name: "Ioprey Greaves X", sex: 0, klass: 1, rarity: 8, slots: 3, avail_online: 9, avail_offline: 99, initial_def: 80, final_def: 135, fire_resist: 0, water_resist: -4, thunder_resist: -4, ice_resist: 3, dragon_resist: 3, created_at: "2015-03-07 21:05:37", updated_at: "2015-03-07 21:05:37", user_id: nil, armor_type: "l">
+{49=>2, 120=>1, 84=>2, 40=>-2}
+{}
+#<Armor id: 1325, name: "Ioprey Greaves S", sex: 0, klass: 1, rarity: 4, slots: 3, avail_online: 5, avail_offline: 8, initial_def: 44, final_def: 119, fire_resist: 0, water_resist: -4, thunder_resist: -4, ice_resist: 3, dragon_resist: 3, created_at: "2015-03-07 21:05:22", updated_at: "2015-03-07 21:05:22", user_id: nil, armor_type: "l">
+{120=>1, 84=>2, 40=>-2}
+{}
+#<Armor id: 1830, name: "Ioprey Cap", sex: 0, klass: 0, rarity: 2, slots: 2, avail_online: 3, avail_offline: 5, initial_def: 8, final_def: 74, fire_resist: 1, water_resist: -2, thunder_resist: -2, ice_resist: 3, dragon_resist: 3, created_at: "2015-03-07 21:07:41", updated_at: "2015-03-07 21:07:41", user_id: nil, armor_type: "h">
+{120=>2, 84=>3, 40=>-2}
+{}
+#<Armor id: 2203, name: "Gypceros Helm X", sex: 0, klass: 0, rarity: 8, slots: 2, avail_online: 9, avail_offline: 99, initial_def: 75, final_def: 132, fire_resist: -5, water_resist: 2, thunder_resist: 3, ice_resist: -2, dragon_resist: 0, created_at: "2015-03-07 21:08:05", updated_at: "2015-03-07 21:08:05", user_id: nil, armor_type: "h">
+{39=>3, 117=>1, 65=>-2, 84=>3}
+{}
+#<Armor id: 214, name: "Ioprey Gloves", sex: 0, klass: 1, rarity: 5, slots: 2, avail_online: 5, avail_offline: 8, initial_def: 41, final_def: 116, fire_resist: 2, water_resist: 1, thunder_resist: 1, ice_resist: 1, dragon_resist: 1, created_at: "2015-03-07 20:59:12", updated_at: "2015-03-07 20:59:12", user_id: nil, armor_type: "a">
+{42=>2, 84=>3, 40=>-2}
+{}
+#<Armor id: 1421, name: "Ioprey Feet", sex: 0, klass: 1, rarity: 5, slots: 2, avail_online: 5, avail_offline: 8, initial_def: 41, final_def: 116, fire_resist: 2, water_resist: 1, thunder_resist: 1, ice_resist: 1, dragon_resist: 1, created_at: "2015-03-07 21:05:28", updated_at: "2015-03-07 21:05:28", user_id: nil, armor_type: "l">
+{42=>3, 84=>3, 40=>-2}
+{}
+#<Armor id: 2025, name: "Ioprey Hood", sex: 0, klass: 0, rarity: 5, slots: 2, avail_online: 5, avail_offline: 8, initial_def: 41, final_def: 116, fire_resist: 2, water_resist: 1, thunder_resist: 1, ice_resist: 1, dragon_resist: 1, created_at: "2015-03-07 21:07:52", updated_at: "2015-03-07 21:07:52", user_id: nil, armor_type: "h">
+{42=>3, 84=>3, 40=>-2}
+{}
+#<Armor id: 1824, name: "Remobra Face", sex: 0, klass: 0, rarity: 2, slots: 1, avail_online: 3, avail_offline: 99, initial_def: 8, final_def: 74, fire_resist: 2, water_resist: -1, thunder_resist: 3, ice_resist: 2, dragon_resist: -2, created_at: "2015-03-07 21:07:41", updated_at: "2015-03-07 21:07:41", user_id: nil, armor_type: "h">
+{49=>1, 11=>-2, 84=>4}
+{}
+#<Armor id: 1823, name: "Remobra Hood", sex: 0, klass: 0, rarity: 2, slots: 1, avail_online: 3, avail_offline: 99, initial_def: 15, final_def: 117, fire_resist: 1, water_resist: -2, thunder_resist: 2, ice_resist: 1, dragon_resist: -3, created_at: "2015-03-07 21:07:41", updated_at: "2015-03-07 21:07:41", user_id: nil, armor_type: "h">
+{49=>1, 11=>-2, 84=>4}
+{}
+#<Armor id: 1223, name: "Remobra Feet", sex: 0, klass: 1, rarity: 2, slots: 3, avail_online: 3, avail_offline: 99, initial_def: 15, final_def: 117, fire_resist: 1, water_resist: -2, thunder_resist: 2, ice_resist: 1, dragon_resist: -3, created_at: "2015-03-07 21:05:17", updated_at: "2015-03-07 21:05:17", user_id: nil, armor_type: "l">
+{49=>1, 11=>-2, 84=>1}
+{}
+#<Armor id: 2242, name: "Basarios Cap Z", sex: 0, klass: 0, rarity: 8, slots: 2, avail_online: 10, avail_offline: 99, initial_def: 47, final_def: 90, fire_resist: 1, water_resist: -1, thunder_resist: 1, ice_resist: -2, dragon_resist: 2, created_at: "2015-03-07 21:08:08", updated_at: "2015-03-07 21:08:08", user_id: nil, armor_type: "h">
+{28=>4, 76=>2, 62=>2, 84=>2, 77=>-2}
+{}
+#<Armor id: 2600, name: "Gypceros Faulds S", sex: 0, klass: 1, rarity: 5, slots: 2, avail_online: 4, avail_offline: 7, initial_def: 47, final_def: 120, fire_resist: -5, water_resist: 2, thunder_resist: 3, ice_resist: -2, dragon_resist: 0, created_at: "2015-03-07 21:09:49", updated_at: "2015-03-07 21:09:49", user_id: nil, armor_type: "w">
+{117=>1, 65=>-2, 84=>2}
+{}
+#<Armor id: 422, name: "Basarios Vambraces Z", sex: 0, klass: 1, rarity: 8, slots: 2, avail_online: 10, avail_offline: 99, initial_def: 88, final_def: 139, fire_resist: 0, water_resist: -2, thunder_resist: 0, ice_resist: -3, dragon_resist: 1, created_at: "2015-03-07 20:59:25", updated_at: "2015-03-07 20:59:25", user_id: nil, armor_type: "a">
+{55=>3, 28=>3, 62=>3, 84=>2, 77=>-2}
+{}
+#<Armor id: 245, name: "Basarios Vambraces U", sex: 0, klass: 1, rarity: 6, slots: 2, avail_online: 5, avail_offline: 99, initial_def: 53, final_def: 124, fire_resist: 0, water_resist: -2, thunder_resist: 0, ice_resist: -3, dragon_resist: 1, created_at: "2015-03-07 20:59:14", updated_at: "2015-03-07 20:59:14", user_id: nil, armor_type: "a">
+{55=>3, 62=>3, 84=>2, 77=>-2}
+{}
+#<Armor id: 1452, name: "Basarios Greaves U", sex: 0, klass: 1, rarity: 6, slots: 2, avail_online: 5, avail_offline: 99, initial_def: 53, final_def: 124, fire_resist: 0, water_resist: -2, thunder_resist: 0, ice_resist: -3, dragon_resist: 1, created_at: "2015-03-07 21:05:29", updated_at: "2015-03-07 21:05:29", user_id: nil, armor_type: "l">
+{55=>2, 62=>1, 84=>2, 77=>-2}
+{}
+#<Armor id: 2807, name: "Gypceros Faulds X", sex: 0, klass: 1, rarity: 8, slots: 2, avail_online: 9, avail_offline: 99, initial_def: 75, final_def: 132, fire_resist: -5, water_resist: 2, thunder_resist: 3, ice_resist: -2, dragon_resist: 0, created_at: "2015-03-07 21:10:01", updated_at: "2015-03-07 21:10:01", user_id: nil, armor_type: "w">
+{39=>1, 117=>2, 65=>-2, 84=>2}
+{}
+#<Armor id: 384, name: "Gypceros Vambraces X", sex: 0, klass: 1, rarity: 8, slots: 2, avail_online: 9, avail_offline: 99, initial_def: 75, final_def: 132, fire_resist: -5, water_resist: 2, thunder_resist: 3, ice_resist: -2, dragon_resist: 0, created_at: "2015-03-07 20:59:22", updated_at: "2015-03-07 20:59:22", user_id: nil, armor_type: "a">
+{49=>2, 39=>2, 65=>-2, 84=>2}
+{}
+#<Armor id: 1632, name: "Basarios Greaves Z", sex: 0, klass: 1, rarity: 8, slots: 2, avail_online: 10, avail_offline: 99, initial_def: 88, final_def: 139, fire_resist: 0, water_resist: -2, thunder_resist: 0, ice_resist: -3, dragon_resist: 1, created_at: "2015-03-07 21:05:40", updated_at: "2015-03-07 21:05:40", user_id: nil, armor_type: "l">
+{1=>2, 55=>2, 62=>1, 84=>2, 77=>-2}
+{}
+#<Armor id: 1984, name: "Gypceros Cap S", sex: 0, klass: 0, rarity: 5, slots: 2, avail_online: 4, avail_offline: 7, initial_def: 23, final_def: 18, fire_resist: -4, water_resist: 3, thunder_resist: 4, ice_resist: -1, dragon_resist: 1, created_at: "2015-03-07 21:07:49", updated_at: "2015-03-07 21:07:49", user_id: nil, armor_type: "h">
+{39=>2, 117=>2, 65=>-2, 84=>2}
+{}
+#<Armor id: 2546, name: "Ioprey Faulds S", sex: 0, klass: 1, rarity: 4, slots: 1, avail_online: 5, avail_offline: 8, initial_def: 44, final_def: 119, fire_resist: 0, water_resist: -4, thunder_resist: -4, ice_resist: 3, dragon_resist: 3, created_at: "2015-03-07 21:09:45", updated_at: "2015-03-07 21:09:45", user_id: nil, armor_type: "w">
+{120=>1, 84=>5, 40=>-2}
+{}
+#<Armor id: 2452, name: "Ioprey Faulds", sex: 0, klass: 1, rarity: 2, slots: 1, avail_online: 3, avail_offline: 5, initial_def: 15, final_def: 117, fire_resist: 0, water_resist: -3, thunder_resist: -3, ice_resist: 2, dragon_resist: 2, created_at: "2015-03-07 21:09:40", updated_at: "2015-03-07 21:09:40", user_id: nil, armor_type: "w">
+{120=>1, 84=>5, 40=>-2}
+{}
+#<Armor id: 2793, name: "Ioprey Faulds X", sex: 0, klass: 1, rarity: 8, slots: 1, avail_online: 9, avail_offline: 99, initial_def: 80, final_def: 135, fire_resist: 0, water_resist: -4, thunder_resist: -4, ice_resist: 3, dragon_resist: 3, created_at: "2015-03-07 21:10:00", updated_at: "2015-03-07 21:10:00", user_id: nil, armor_type: "w">
+{120=>2, 84=>5, 40=>-2}
+{}
+#<Armor id: 1580, name: "Ioprey Greaves X", sex: 0, klass: 1, rarity: 8, slots: 3, avail_online: 9, avail_offline: 99, initial_def: 80, final_def: 135, fire_resist: 0, water_resist: -4, thunder_resist: -4, ice_resist: 3, dragon_resist: 3, created_at: "2015-03-07 21:05:37", updated_at: "2015-03-07 21:05:37", user_id: nil, armor_type: "l">
+{49=>2, 120=>1, 84=>2, 40=>-2}
+{}
+#<Armor id: 1325, name: "Ioprey Greaves S", sex: 0, klass: 1, rarity: 4, slots: 3, avail_online: 5, avail_offline: 8, initial_def: 44, final_def: 119, fire_resist: 0, water_resist: -4, thunder_resist: -4, ice_resist: 3, dragon_resist: 3, created_at: "2015-03-07 21:05:22", updated_at: "2015-03-07 21:05:22", user_id: nil, armor_type: "l">
+{120=>1, 84=>2, 40=>-2}
+{}
+#<Armor id: 1830, name: "Ioprey Cap", sex: 0, klass: 0, rarity: 2, slots: 2, avail_online: 3, avail_offline: 5, initial_def: 8, final_def: 74, fire_resist: 1, water_resist: -2, thunder_resist: -2, ice_resist: 3, dragon_resist: 3, created_at: "2015-03-07 21:07:41", updated_at: "2015-03-07 21:07:41", user_id: nil, armor_type: "h">
+{120=>2, 84=>3, 40=>-2}
+{}
+#<Armor id: 2203, name: "Gypceros Helm X", sex: 0, klass: 0, rarity: 8, slots: 2, avail_online: 9, avail_offline: 99, initial_def: 75, final_def: 132, fire_resist: -5, water_resist: 2, thunder_resist: 3, ice_resist: -2, dragon_resist: 0, created_at: "2015-03-07 21:08:05", updated_at: "2015-03-07 21:08:05", user_id: nil, armor_type: "h">
+{39=>3, 117=>1, 65=>-2, 84=>3}
+{}
+#<Armor id: 214, name: "Ioprey Gloves", sex: 0, klass: 1, rarity: 5, slots: 2, avail_online: 5, avail_offline: 8, initial_def: 41, final_def: 116, fire_resist: 2, water_resist: 1, thunder_resist: 1, ice_resist: 1, dragon_resist: 1, created_at: "2015-03-07 20:59:12", updated_at: "2015-03-07 20:59:12", user_id: nil, armor_type: "a">
+{42=>2, 84=>3, 40=>-2}
+{}
+#<Armor id: 1421, name: "Ioprey Feet", sex: 0, klass: 1, rarity: 5, slots: 2, avail_online: 5, avail_offline: 8, initial_def: 41, final_def: 116, fire_resist: 2, water_resist: 1, thunder_resist: 1, ice_resist: 1, dragon_resist: 1, created_at: "2015-03-07 21:05:28", updated_at: "2015-03-07 21:05:28", user_id: nil, armor_type: "l">
+{42=>3, 84=>3, 40=>-2}
+{}
+#<Armor id: 2025, name: "Ioprey Hood", sex: 0, klass: 0, rarity: 5, slots: 2, avail_online: 5, avail_offline: 8, initial_def: 41, final_def: 116, fire_resist: 2, water_resist: 1, thunder_resist: 1, ice_resist: 1, dragon_resist: 1, created_at: "2015-03-07 21:07:52", updated_at: "2015-03-07 21:07:52", user_id: nil, armor_type: "h">
+{42=>3, 84=>3, 40=>-2}
+{}
+#<Armor id: 1824, name: "Remobra Face", sex: 0, klass: 0, rarity: 2, slots: 1, avail_online: 3, avail_offline: 99, initial_def: 8, final_def: 74, fire_resist: 2, water_resist: -1, thunder_resist: 3, ice_resist: 2, dragon_resist: -2, created_at: "2015-03-07 21:07:41", updated_at: "2015-03-07 21:07:41", user_id: nil, armor_type: "h">
+{49=>1, 11=>-2, 84=>4}
+{}
+#<Armor id: 1823, name: "Remobra Hood", sex: 0, klass: 0, rarity: 2, slots: 1, avail_online: 3, avail_offline: 99, initial_def: 15, final_def: 117, fire_resist: 1, water_resist: -2, thunder_resist: 2, ice_resist: 1, dragon_resist: -3, created_at: "2015-03-07 21:07:41", updated_at: "2015-03-07 21:07:41", user_id: nil, armor_type: "h">
+{49=>1, 11=>-2, 84=>4}
+{}
+#<Armor id: 1223, name: "Remobra Feet", sex: 0, klass: 1, rarity: 2, slots: 3, avail_online: 3, avail_offline: 99, initial_def: 15, final_def: 117, fire_resist: 1, water_resist: -2, thunder_resist: 2, ice_resist: 1, dragon_resist: -3, created_at: "2015-03-07 21:05:17", updated_at: "2015-03-07 21:05:17", user_id: nil, armor_type: "l">
+{49=>1, 11=>-2, 84=>1}
+{}
+#<Armor id: 2242, name: "Basarios Cap Z", sex: 0, klass: 0, rarity: 8, slots: 2, avail_online: 10, avail_offline: 99, initial_def: 47, final_def: 90, fire_resist: 1, water_resist: -1, thunder_resist: 1, ice_resist: -2, dragon_resist: 2, created_at: "2015-03-07 21:08:08", updated_at: "2015-03-07 21:08:08", user_id: nil, armor_type: "h">
+{28=>4, 76=>2, 62=>2, 84=>2, 77=>-2}
+{}
+#<Armor id: 2600, name: "Gypceros Faulds S", sex: 0, klass: 1, rarity: 5, slots: 2, avail_online: 4, avail_offline: 7, initial_def: 47, final_def: 120, fire_resist: -5, water_resist: 2, thunder_resist: 3, ice_resist: -2, dragon_resist: 0, created_at: "2015-03-07 21:09:49", updated_at: "2015-03-07 21:09:49", user_id: nil, armor_type: "w">
+{117=>1, 65=>-2, 84=>2}
+{}
+#<Armor id: 422, name: "Basarios Vambraces Z", sex: 0, klass: 1, rarity: 8, slots: 2, avail_online: 10, avail_offline: 99, initial_def: 88, final_def: 139, fire_resist: 0, water_resist: -2, thunder_resist: 0, ice_resist: -3, dragon_resist: 1, created_at: "2015-03-07 20:59:25", updated_at: "2015-03-07 20:59:25", user_id: nil, armor_type: "a">
+{55=>3, 28=>3, 62=>3, 84=>2, 77=>-2}
+{}
+#<Armor id: 245, name: "Basarios Vambraces U", sex: 0, klass: 1, rarity: 6, slots: 2, avail_online: 5, avail_offline: 99, initial_def: 53, final_def: 124, fire_resist: 0, water_resist: -2, thunder_resist: 0, ice_resist: -3, dragon_resist: 1, created_at: "2015-03-07 20:59:14", updated_at: "2015-03-07 20:59:14", user_id: nil, armor_type: "a">
+{55=>3, 62=>3, 84=>2, 77=>-2}
+{}
+#<Armor id: 1452, name: "Basarios Greaves U", sex: 0, klass: 1, rarity: 6, slots: 2, avail_online: 5, avail_offline: 99, initial_def: 53, final_def: 124, fire_resist: 0, water_resist: -2, thunder_resist: 0, ice_resist: -3, dragon_resist: 1, created_at: "2015-03-07 21:05:29", updated_at: "2015-03-07 21:05:29", user_id: nil, armor_type: "l">
+{55=>2, 62=>1, 84=>2, 77=>-2}
+{}
+#<Armor id: 2807, name: "Gypceros Faulds X", sex: 0, klass: 1, rarity: 8, slots: 2, avail_online: 9, avail_offline: 99, initial_def: 75, final_def: 132, fire_resist: -5, water_resist: 2, thunder_resist: 3, ice_resist: -2, dragon_resist: 0, created_at: "2015-03-07 21:10:01", updated_at: "2015-03-07 21:10:01", user_id: nil, armor_type: "w">
+{39=>1, 117=>2, 65=>-2, 84=>2}
+{}
+#<Armor id: 384, name: "Gypceros Vambraces X", sex: 0, klass: 1, rarity: 8, slots: 2, avail_online: 9, avail_offline: 99, initial_def: 75, final_def: 132, fire_resist: -5, water_resist: 2, thunder_resist: 3, ice_resist: -2, dragon_resist: 0, created_at: "2015-03-07 20:59:22", updated_at: "2015-03-07 20:59:22", user_id: nil, armor_type: "a">
+{49=>2, 39=>2, 65=>-2, 84=>2}
+{}
+#<Armor id: 1632, name: "Basarios Greaves Z", sex: 0, klass: 1, rarity: 8, slots: 2, avail_online: 10, avail_offline: 99, initial_def: 88, final_def: 139, fire_resist: 0, water_resist: -2, thunder_resist: 0, ice_resist: -3, dragon_resist: 1, created_at: "2015-03-07 21:05:40", updated_at: "2015-03-07 21:05:40", user_id: nil, armor_type: "l">
+{1=>2, 55=>2, 62=>1, 84=>2, 77=>-2}
+{}
+#<Armor id: 1984, name: "Gypceros Cap S", sex: 0, klass: 0, rarity: 5, slots: 2, avail_online: 4, avail_offline: 7, initial_def: 23, final_def: 18, fire_resist: -4, water_resist: 3, thunder_resist: 4, ice_resist: -1, dragon_resist: 1, created_at: "2015-03-07 21:07:49", updated_at: "2015-03-07 21:07:49", user_id: nil, armor_type: "h">
+{39=>2, 117=>2, 65=>-2, 84=>2}
+{}
+#<Armor id: 2150, name: "Shadow Shades", sex: 0, klass: 0, rarity: 7, slots: 3, avail_online: 4, avail_offline: 99, initial_def: 13, final_def: 79, fire_resist: 2, water_resist: 2, thunder_resist: 2, ice_resist: 2, dragon_resist: 2, created_at: "2015-03-07 21:07:59", updated_at: "2015-03-07 21:07:59", user_id: nil, armor_type: "h">
+{40=>7}
+{}
+#<Armor id: 2205, name: "Gypceros Helm Z", sex: 0, klass: 0, rarity: 8, slots: 2, avail_online: 9, avail_offline: 99, initial_def: 77, final_def: 134, fire_resist: -5, water_resist: 2, thunder_resist: 3, ice_resist: -2, dragon_resist: 0, created_at: "2015-03-07 21:08:05", updated_at: "2015-03-07 21:08:05", user_id: nil, armor_type: "h">
+{39=>-1, 119=>1, 144=>2, 40=>4}
+{}
+#<Armor id: 2206, name: "Gypceros Cap Z", sex: 0, klass: 0, rarity: 8, slots: 2, avail_online: 9, avail_offline: 99, initial_def: 41, final_def: 87, fire_resist: -4, water_resist: 3, thunder_resist: 4, ice_resist: -1, dragon_resist: 1, created_at: "2015-03-07 21:08:05", updated_at: "2015-03-07 21:08:05", user_id: nil, armor_type: "h">
+{39=>-1, 119=>1, 144=>3, 40=>4}
+{}
+#<Armor id: 2474, name: "Velociprey Faulds", sex: 0, klass: 1, rarity: 2, slots: 2, avail_online: 1, avail_offline: 2, initial_def: 13, final_def: 117, fire_resist: 0, water_resist: 0, thunder_resist: 0, ice_resist: -4, dragon_resist: 2, created_at: "2015-03-07 21:09:41", updated_at: "2015-03-07 21:09:41", user_id: nil, armor_type: "w">
+{6=>2, 40=>3}
+{}
+#<Armor id: 2039, name: "Gypceros Cap U", sex: 0, klass: 0, rarity: 6, slots: 2, avail_online: 4, avail_offline: 7, initial_def: 24, final_def: 78, fire_resist: -4, water_resist: 3, thunder_resist: 4, ice_resist: -1, dragon_resist: 1, created_at: "2015-03-07 21:07:53", updated_at: "2015-03-07 21:07:53", user_id: nil, armor_type: "h">
+{39=>-1, 144=>3, 40=>3}
+{}
+#<Armor id: 2203, name: "Gypceros Helm X", sex: 0, klass: 0, rarity: 8, slots: 2, avail_online: 9, avail_offline: 99, initial_def: 75, final_def: 132, fire_resist: -5, water_resist: 2, thunder_resist: 3, ice_resist: -2, dragon_resist: 0, created_at: "2015-03-07 21:08:05", updated_at: "2015-03-07 21:08:05", user_id: nil, armor_type: "h">
+{39=>3, 117=>1, 65=>-2, 84=>3}
+{}
+#<Armor id: 2837, name: "Velociprey Faulds X", sex: 0, klass: 1, rarity: 8, slots: 2, avail_online: 9, avail_offline: 99, initial_def: 74, final_def: 131, fire_resist: 0, water_resist: 0, thunder_resist: 0, ice_resist: -5, dragon_resist: 3, created_at: "2015-03-07 21:10:03", updated_at: "2015-03-07 21:10:03", user_id: nil, armor_type: "w">
+{58=>2, 6=>3, 77=>-2, 40=>3}
+{}
+#<Armor id: 2038, name: "Gypceros Helm U", sex: 0, klass: 0, rarity: 6, slots: 2, avail_online: 4, avail_offline: 7, initial_def: 48, final_def: 121, fire_resist: -5, water_resist: 2, thunder_resist: 3, ice_resist: -2, dragon_resist: 0, created_at: "2015-03-07 21:07:53", updated_at: "2015-03-07 21:07:53", user_id: nil, armor_type: "h">
+{39=>-1, 144=>2, 40=>3}
+{}
+#<Armor id: 1824, name: "Remobra Face", sex: 0, klass: 0, rarity: 2, slots: 1, avail_online: 3, avail_offline: 99, initial_def: 8, final_def: 74, fire_resist: 2, water_resist: -1, thunder_resist: 3, ice_resist: 2, dragon_resist: -2, created_at: "2015-03-07 21:07:41", updated_at: "2015-03-07 21:07:41", user_id: nil, armor_type: "h">
+{49=>1, 11=>-2, 84=>4}
+{}
+#<Armor id: 1823, name: "Remobra Hood", sex: 0, klass: 0, rarity: 2, slots: 1, avail_online: 3, avail_offline: 99, initial_def: 15, final_def: 117, fire_resist: 1, water_resist: -2, thunder_resist: 2, ice_resist: 1, dragon_resist: -3, created_at: "2015-03-07 21:07:41", updated_at: "2015-03-07 21:07:41", user_id: nil, armor_type: "h">
+{49=>1, 11=>-2, 84=>4}
+{}
+#<Armor id: 1223, name: "Remobra Feet", sex: 0, klass: 1, rarity: 2, slots: 3, avail_online: 3, avail_offline: 99, initial_def: 15, final_def: 117, fire_resist: 1, water_resist: -2, thunder_resist: 2, ice_resist: 1, dragon_resist: -3, created_at: "2015-03-07 21:05:17", updated_at: "2015-03-07 21:05:17", user_id: nil, armor_type: "l">
+{49=>1, 11=>-2, 84=>1}
+{}
+#<Armor id: 2600, name: "Gypceros Faulds S", sex: 0, klass: 1, rarity: 5, slots: 2, avail_online: 4, avail_offline: 7, initial_def: 47, final_def: 120, fire_resist: -5, water_resist: 2, thunder_resist: 3, ice_resist: -2, dragon_resist: 0, created_at: "2015-03-07 21:09:49", updated_at: "2015-03-07 21:09:49", user_id: nil, armor_type: "w">
+{117=>1, 65=>-2, 84=>2}
+{}
+#<Armor id: 422, name: "Basarios Vambraces Z", sex: 0, klass: 1, rarity: 8, slots: 2, avail_online: 10, avail_offline: 99, initial_def: 88, final_def: 139, fire_resist: 0, water_resist: -2, thunder_resist: 0, ice_resist: -3, dragon_resist: 1, created_at: "2015-03-07 20:59:25", updated_at: "2015-03-07 20:59:25", user_id: nil, armor_type: "a">
+{55=>3, 28=>3, 62=>3, 84=>2, 77=>-2}
+{}
+#<Armor id: 825, name: "Gypceros Mail U", sex: 0, klass: 1, rarity: 6, slots: 2, avail_online: 4, avail_offline: 7, initial_def: 48, final_def: 121, fire_resist: -5, water_resist: 2, thunder_resist: 3, ice_resist: -2, dragon_resist: 0, created_at: "2015-03-07 21:02:34", updated_at: "2015-03-07 21:02:34", user_id: nil, armor_type: "b">
+{39=>-2, 144=>1, 40=>2}
+{}
+#<Armor id: 245, name: "Basarios Vambraces U", sex: 0, klass: 1, rarity: 6, slots: 2, avail_online: 5, avail_offline: 99, initial_def: 53, final_def: 124, fire_resist: 0, water_resist: -2, thunder_resist: 0, ice_resist: -3, dragon_resist: 1, created_at: "2015-03-07 20:59:14", updated_at: "2015-03-07 20:59:14", user_id: nil, armor_type: "a">
+{55=>3, 62=>3, 84=>2, 77=>-2}
+{}
+#<Armor id: 2242, name: "Basarios Cap Z", sex: 0, klass: 0, rarity: 8, slots: 2, avail_online: 10, avail_offline: 99, initial_def: 47, final_def: 90, fire_resist: 1, water_resist: -1, thunder_resist: 1, ice_resist: -2, dragon_resist: 2, created_at: "2015-03-07 21:08:08", updated_at: "2015-03-07 21:08:08", user_id: nil, armor_type: "h">
+{28=>4, 76=>2, 62=>2, 84=>2, 77=>-2}
+{}
+#<Armor id: 2807, name: "Gypceros Faulds X", sex: 0, klass: 1, rarity: 8, slots: 2, avail_online: 9, avail_offline: 99, initial_def: 75, final_def: 132, fire_resist: -5, water_resist: 2, thunder_resist: 3, ice_resist: -2, dragon_resist: 0, created_at: "2015-03-07 21:10:01", updated_at: "2015-03-07 21:10:01", user_id: nil, armor_type: "w">
+{39=>1, 117=>2, 65=>-2, 84=>2}
+{}
+#<Armor id: 2651, name: "Gypceros Faulds U", sex: 0, klass: 1, rarity: 6, slots: 2, avail_online: 4, avail_offline: 7, initial_def: 48, final_def: 121, fire_resist: -5, water_resist: 2, thunder_resist: 3, ice_resist: -2, dragon_resist: 0, created_at: "2015-03-07 21:09:52", updated_at: "2015-03-07 21:09:52", user_id: nil, armor_type: "w">
+{39=>-2, 144=>2, 40=>2}
+{}
+#<Armor id: 2204, name: "Gypceros Cap X", sex: 0, klass: 0, rarity: 8, slots: 2, avail_online: 9, avail_offline: 99, initial_def: 40, final_def: 86, fire_resist: -4, water_resist: 3, thunder_resist: 4, ice_resist: -1, dragon_resist: 1, created_at: "2015-03-07 21:08:05", updated_at: "2015-03-07 21:08:05", user_id: nil, armor_type: "h">
+{39=>3, 117=>2, 65=>-2, 84=>2}
+{}
+#<Armor id: 995, name: "Gypceros Mail Z", sex: 0, klass: 1, rarity: 8, slots: 2, avail_online: 9, avail_offline: 99, initial_def: 77, final_def: 134, fire_resist: -5, water_resist: 2, thunder_resist: 3, ice_resist: -2, dragon_resist: 0, created_at: "2015-03-07 21:02:44", updated_at: "2015-03-07 21:02:44", user_id: nil, armor_type: "b">
+{39=>-2, 119=>2, 144=>2, 40=>2}
+{}
+#<Armor id: 174, name: "Gypceros Vambraces S", sex: 0, klass: 1, rarity: 5, slots: 2, avail_online: 4, avail_offline: 7, initial_def: 47, final_def: 120, fire_resist: -5, water_resist: 2, thunder_resist: 3, ice_resist: -2, dragon_resist: 0, created_at: "2015-03-07 20:59:10", updated_at: "2015-03-07 20:59:10", user_id: nil, armor_type: "a">
+{39=>2, 65=>-2, 84=>2}
+{}
+#<Armor id: 2809, name: "Gypceros Faulds Z", sex: 0, klass: 1, rarity: 8, slots: 2, avail_online: 9, avail_offline: 99, initial_def: 77, final_def: 134, fire_resist: -5, water_resist: 2, thunder_resist: 3, ice_resist: -2, dragon_resist: 0, created_at: "2015-03-07 21:10:01", updated_at: "2015-03-07 21:10:01", user_id: nil, armor_type: "w">
+{39=>-2, 119=>3, 144=>2, 40=>2}
+{}
+#<Armor id: 1385, name: "Nerscylla Greaves S", sex: 0, klass: 1, rarity: 5, slots: 2, avail_online: 4, avail_offline: 7, initial_def: 48, final_def: 121, fire_resist: -3, water_resist: 3, thunder_resist: -3, ice_resist: 2, dragon_resist: 3, created_at: "2015-03-07 21:05:26", updated_at: "2015-03-07 21:05:26", user_id: nil, armor_type: "l">
+{39=>2, 81=>2, 65=>-3, 84=>2}
+{}
+#<Armor id: 1984, name: "Gypceros Cap S", sex: 0, klass: 0, rarity: 5, slots: 2, avail_online: 4, avail_offline: 7, initial_def: 23, final_def: 18, fire_resist: -4, water_resist: 3, thunder_resist: 4, ice_resist: -1, dragon_resist: 1, created_at: "2015-03-07 21:07:49", updated_at: "2015-03-07 21:07:49", user_id: nil, armor_type: "h">
+{39=>2, 117=>2, 65=>-2, 84=>2}
+{}
+#<Armor id: 2546, name: "Ioprey Faulds S", sex: 0, klass: 1, rarity: 4, slots: 1, avail_online: 5, avail_offline: 8, initial_def: 44, final_def: 119, fire_resist: 0, water_resist: -4, thunder_resist: -4, ice_resist: 3, dragon_resist: 3, created_at: "2015-03-07 21:09:45", updated_at: "2015-03-07 21:09:45", user_id: nil, armor_type: "w">
+{120=>1, 84=>5, 40=>-2}
+{}
+#<Armor id: 2452, name: "Ioprey Faulds", sex: 0, klass: 1, rarity: 2, slots: 1, avail_online: 3, avail_offline: 5, initial_def: 15, final_def: 117, fire_resist: 0, water_resist: -3, thunder_resist: -3, ice_resist: 2, dragon_resist: 2, created_at: "2015-03-07 21:09:40", updated_at: "2015-03-07 21:09:40", user_id: nil, armor_type: "w">
+{120=>1, 84=>5, 40=>-2}
+{}
+#<Armor id: 2793, name: "Ioprey Faulds X", sex: 0, klass: 1, rarity: 8, slots: 1, avail_online: 9, avail_offline: 99, initial_def: 80, final_def: 135, fire_resist: 0, water_resist: -4, thunder_resist: -4, ice_resist: 3, dragon_resist: 3, created_at: "2015-03-07 21:10:00", updated_at: "2015-03-07 21:10:00", user_id: nil, armor_type: "w">
+{120=>2, 84=>5, 40=>-2}
+{}
+#<Armor id: 1580, name: "Ioprey Greaves X", sex: 0, klass: 1, rarity: 8, slots: 3, avail_online: 9, avail_offline: 99, initial_def: 80, final_def: 135, fire_resist: 0, water_resist: -4, thunder_resist: -4, ice_resist: 3, dragon_resist: 3, created_at: "2015-03-07 21:05:37", updated_at: "2015-03-07 21:05:37", user_id: nil, armor_type: "l">
+{49=>2, 120=>1, 84=>2, 40=>-2}
+{}
+#<Armor id: 1325, name: "Ioprey Greaves S", sex: 0, klass: 1, rarity: 4, slots: 3, avail_online: 5, avail_offline: 8, initial_def: 44, final_def: 119, fire_resist: 0, water_resist: -4, thunder_resist: -4, ice_resist: 3, dragon_resist: 3, created_at: "2015-03-07 21:05:22", updated_at: "2015-03-07 21:05:22", user_id: nil, armor_type: "l">
+{120=>1, 84=>2, 40=>-2}
+{}
+#<Armor id: 1830, name: "Ioprey Cap", sex: 0, klass: 0, rarity: 2, slots: 2, avail_online: 3, avail_offline: 5, initial_def: 8, final_def: 74, fire_resist: 1, water_resist: -2, thunder_resist: -2, ice_resist: 3, dragon_resist: 3, created_at: "2015-03-07 21:07:41", updated_at: "2015-03-07 21:07:41", user_id: nil, armor_type: "h">
+{120=>2, 84=>3, 40=>-2}
+{}
+#<Armor id: 2203, name: "Gypceros Helm X", sex: 0, klass: 0, rarity: 8, slots: 2, avail_online: 9, avail_offline: 99, initial_def: 75, final_def: 132, fire_resist: -5, water_resist: 2, thunder_resist: 3, ice_resist: -2, dragon_resist: 0, created_at: "2015-03-07 21:08:05", updated_at: "2015-03-07 21:08:05", user_id: nil, armor_type: "h">
+{39=>3, 117=>1, 65=>-2, 84=>3}
+{}
+#<Armor id: 214, name: "Ioprey Gloves", sex: 0, klass: 1, rarity: 5, slots: 2, avail_online: 5, avail_offline: 8, initial_def: 41, final_def: 116, fire_resist: 2, water_resist: 1, thunder_resist: 1, ice_resist: 1, dragon_resist: 1, created_at: "2015-03-07 20:59:12", updated_at: "2015-03-07 20:59:12", user_id: nil, armor_type: "a">
+{42=>2, 84=>3, 40=>-2}
+{}
+#<Armor id: 1421, name: "Ioprey Feet", sex: 0, klass: 1, rarity: 5, slots: 2, avail_online: 5, avail_offline: 8, initial_def: 41, final_def: 116, fire_resist: 2, water_resist: 1, thunder_resist: 1, ice_resist: 1, dragon_resist: 1, created_at: "2015-03-07 21:05:28", updated_at: "2015-03-07 21:05:28", user_id: nil, armor_type: "l">
+{42=>3, 84=>3, 40=>-2}
+{}
+#<Armor id: 2025, name: "Ioprey Hood", sex: 0, klass: 0, rarity: 5, slots: 2, avail_online: 5, avail_offline: 8, initial_def: 41, final_def: 116, fire_resist: 2, water_resist: 1, thunder_resist: 1, ice_resist: 1, dragon_resist: 1, created_at: "2015-03-07 21:07:52", updated_at: "2015-03-07 21:07:52", user_id: nil, armor_type: "h">
+{42=>3, 84=>3, 40=>-2}
+{}
+#<Armor id: 1824, name: "Remobra Face", sex: 0, klass: 0, rarity: 2, slots: 1, avail_online: 3, avail_offline: 99, initial_def: 8, final_def: 74, fire_resist: 2, water_resist: -1, thunder_resist: 3, ice_resist: 2, dragon_resist: -2, created_at: "2015-03-07 21:07:41", updated_at: "2015-03-07 21:07:41", user_id: nil, armor_type: "h">
+{49=>1, 11=>-2, 84=>4}
+{}
+#<Armor id: 1823, name: "Remobra Hood", sex: 0, klass: 0, rarity: 2, slots: 1, avail_online: 3, avail_offline: 99, initial_def: 15, final_def: 117, fire_resist: 1, water_resist: -2, thunder_resist: 2, ice_resist: 1, dragon_resist: -3, created_at: "2015-03-07 21:07:41", updated_at: "2015-03-07 21:07:41", user_id: nil, armor_type: "h">
+{49=>1, 11=>-2, 84=>4}
+{}
+#<Armor id: 1223, name: "Remobra Feet", sex: 0, klass: 1, rarity: 2, slots: 3, avail_online: 3, avail_offline: 99, initial_def: 15, final_def: 117, fire_resist: 1, water_resist: -2, thunder_resist: 2, ice_resist: 1, dragon_resist: -3, created_at: "2015-03-07 21:05:17", updated_at: "2015-03-07 21:05:17", user_id: nil, armor_type: "l">
+{49=>1, 11=>-2, 84=>1}
+{}
+#<Armor id: 2242, name: "Basarios Cap Z", sex: 0, klass: 0, rarity: 8, slots: 2, avail_online: 10, avail_offline: 99, initial_def: 47, final_def: 90, fire_resist: 1, water_resist: -1, thunder_resist: 1, ice_resist: -2, dragon_resist: 2, created_at: "2015-03-07 21:08:08", updated_at: "2015-03-07 21:08:08", user_id: nil, armor_type: "h">
+{28=>4, 76=>2, 62=>2, 84=>2, 77=>-2}
+{}
+#<Armor id: 2600, name: "Gypceros Faulds S", sex: 0, klass: 1, rarity: 5, slots: 2, avail_online: 4, avail_offline: 7, initial_def: 47, final_def: 120, fire_resist: -5, water_resist: 2, thunder_resist: 3, ice_resist: -2, dragon_resist: 0, created_at: "2015-03-07 21:09:49", updated_at: "2015-03-07 21:09:49", user_id: nil, armor_type: "w">
+{117=>1, 65=>-2, 84=>2}
+{}
+#<Armor id: 422, name: "Basarios Vambraces Z", sex: 0, klass: 1, rarity: 8, slots: 2, avail_online: 10, avail_offline: 99, initial_def: 88, final_def: 139, fire_resist: 0, water_resist: -2, thunder_resist: 0, ice_resist: -3, dragon_resist: 1, created_at: "2015-03-07 20:59:25", updated_at: "2015-03-07 20:59:25", user_id: nil, armor_type: "a">
+{55=>3, 28=>3, 62=>3, 84=>2, 77=>-2}
+{}
+#<Armor id: 245, name: "Basarios Vambraces U", sex: 0, klass: 1, rarity: 6, slots: 2, avail_online: 5, avail_offline: 99, initial_def: 53, final_def: 124, fire_resist: 0, water_resist: -2, thunder_resist: 0, ice_resist: -3, dragon_resist: 1, created_at: "2015-03-07 20:59:14", updated_at: "2015-03-07 20:59:14", user_id: nil, armor_type: "a">
+{55=>3, 62=>3, 84=>2, 77=>-2}
+{}
+#<Armor id: 1452, name: "Basarios Greaves U", sex: 0, klass: 1, rarity: 6, slots: 2, avail_online: 5, avail_offline: 99, initial_def: 53, final_def: 124, fire_resist: 0, water_resist: -2, thunder_resist: 0, ice_resist: -3, dragon_resist: 1, created_at: "2015-03-07 21:05:29", updated_at: "2015-03-07 21:05:29", user_id: nil, armor_type: "l">
+{55=>2, 62=>1, 84=>2, 77=>-2}
+{}
+#<Armor id: 2807, name: "Gypceros Faulds X", sex: 0, klass: 1, rarity: 8, slots: 2, avail_online: 9, avail_offline: 99, initial_def: 75, final_def: 132, fire_resist: -5, water_resist: 2, thunder_resist: 3, ice_resist: -2, dragon_resist: 0, created_at: "2015-03-07 21:10:01", updated_at: "2015-03-07 21:10:01", user_id: nil, armor_type: "w">
+{39=>1, 117=>2, 65=>-2, 84=>2}
+{}
+#<Armor id: 384, name: "Gypceros Vambraces X", sex: 0, klass: 1, rarity: 8, slots: 2, avail_online: 9, avail_offline: 99, initial_def: 75, final_def: 132, fire_resist: -5, water_resist: 2, thunder_resist: 3, ice_resist: -2, dragon_resist: 0, created_at: "2015-03-07 20:59:22", updated_at: "2015-03-07 20:59:22", user_id: nil, armor_type: "a">
+{49=>2, 39=>2, 65=>-2, 84=>2}
+{}
+#<Armor id: 1632, name: "Basarios Greaves Z", sex: 0, klass: 1, rarity: 8, slots: 2, avail_online: 10, avail_offline: 99, initial_def: 88, final_def: 139, fire_resist: 0, water_resist: -2, thunder_resist: 0, ice_resist: -3, dragon_resist: 1, created_at: "2015-03-07 21:05:40", updated_at: "2015-03-07 21:05:40", user_id: nil, armor_type: "l">
+{1=>2, 55=>2, 62=>1, 84=>2, 77=>-2}
+{}
+#<Armor id: 1984, name: "Gypceros Cap S", sex: 0, klass: 0, rarity: 5, slots: 2, avail_online: 4, avail_offline: 7, initial_def: 23, final_def: 18, fire_resist: -4, water_resist: 3, thunder_resist: 4, ice_resist: -1, dragon_resist: 1, created_at: "2015-03-07 21:07:49", updated_at: "2015-03-07 21:07:49", user_id: nil, armor_type: "h">
+{39=>2, 117=>2, 65=>-2, 84=>2}
+{}
+#<Armor id: 1744, name: "Kaiser Greaves X", sex: 0, klass: 1, rarity: 10, slots: 2, avail_online: 11, avail_offline: 99, initial_def: 109, final_def: 151, fire_resist: 4, water_resist: -6, thunder_resist: 1, ice_resist: -2, dragon_resist: -2, created_at: "2015-03-07 21:05:48", updated_at: "2015-03-07 21:05:48", user_id: nil, armor_type: "l">
+{8=>5, 49=>3, 43=>1, 6=>3, 19=>-2}
+{}
+#<Armor id: 2452, name: "Ioprey Faulds", sex: 0, klass: 1, rarity: 2, slots: 1, avail_online: 3, avail_offline: 5, initial_def: 15, final_def: 117, fire_resist: 0, water_resist: -3, thunder_resist: -3, ice_resist: 2, dragon_resist: 2, created_at: "2015-03-07 21:09:40", updated_at: "2015-03-07 21:09:40", user_id: nil, armor_type: "w">
+{120=>1, 84=>5, 40=>-2}
+{}
+#<Armor id: 2546, name: "Ioprey Faulds S", sex: 0, klass: 1, rarity: 4, slots: 1, avail_online: 5, avail_offline: 8, initial_def: 44, final_def: 119, fire_resist: 0, water_resist: -4, thunder_resist: -4, ice_resist: 3, dragon_resist: 3, created_at: "2015-03-07 21:09:45", updated_at: "2015-03-07 21:09:45", user_id: nil, armor_type: "w">
+{120=>1, 84=>5, 40=>-2}
+{}
+#<Armor id: 2793, name: "Ioprey Faulds X", sex: 0, klass: 1, rarity: 8, slots: 1, avail_online: 9, avail_offline: 99, initial_def: 80, final_def: 135, fire_resist: 0, water_resist: -4, thunder_resist: -4, ice_resist: 3, dragon_resist: 3, created_at: "2015-03-07 21:10:00", updated_at: "2015-03-07 21:10:00", user_id: nil, armor_type: "w">
+{120=>2, 84=>5, 40=>-2}
+{}
+#<Armor id: 1325, name: "Ioprey Greaves S", sex: 0, klass: 1, rarity: 4, slots: 3, avail_online: 5, avail_offline: 8, initial_def: 44, final_def: 119, fire_resist: 0, water_resist: -4, thunder_resist: -4, ice_resist: 3, dragon_resist: 3, created_at: "2015-03-07 21:05:22", updated_at: "2015-03-07 21:05:22", user_id: nil, armor_type: "l">
+{120=>1, 84=>2, 40=>-2}
+{}
+#<Armor id: 1580, name: "Ioprey Greaves X", sex: 0, klass: 1, rarity: 8, slots: 3, avail_online: 9, avail_offline: 99, initial_def: 80, final_def: 135, fire_resist: 0, water_resist: -4, thunder_resist: -4, ice_resist: 3, dragon_resist: 3, created_at: "2015-03-07 21:05:37", updated_at: "2015-03-07 21:05:37", user_id: nil, armor_type: "l">
+{49=>2, 120=>1, 84=>2, 40=>-2}
+{}
+#<Armor id: 534, name: "Kaiser Vambraces X", sex: 0, klass: 1, rarity: 10, slots: 3, avail_online: 11, avail_offline: 99, initial_def: 109, final_def: 151, fire_resist: 4, water_resist: -6, thunder_resist: 1, ice_resist: -2, dragon_resist: -2, created_at: "2015-03-07 20:59:32", updated_at: "2015-03-07 20:59:32", user_id: nil, armor_type: "a">
+{8=>2, 73=>2, 43=>3, 19=>-2}
+{}
+#<Armor id: 2915, name: "Gore Faulds X", sex: 0, klass: 1, rarity: 9, slots: 2, avail_online: 10, avail_offline: 99, initial_def: 95, final_def: 142, fire_resist: -5, water_resist: 3, thunder_resist: -3, ice_resist: 2, dragon_resist: -2, created_at: "2015-03-07 21:10:08", updated_at: "2015-03-07 21:10:08", user_id: nil, armor_type: "w">
+{8=>3, 116=>2, 34=>2, 46=>-3, 68=>3}
+{}
+#<Armor id: 1830, name: "Ioprey Cap", sex: 0, klass: 0, rarity: 2, slots: 2, avail_online: 3, avail_offline: 5, initial_def: 8, final_def: 74, fire_resist: 1, water_resist: -2, thunder_resist: -2, ice_resist: 3, dragon_resist: 3, created_at: "2015-03-07 21:07:41", updated_at: "2015-03-07 21:07:41", user_id: nil, armor_type: "h">
+{120=>2, 84=>3, 40=>-2}
+{}
+#<Armor id: 2203, name: "Gypceros Helm X", sex: 0, klass: 0, rarity: 8, slots: 2, avail_online: 9, avail_offline: 99, initial_def: 75, final_def: 132, fire_resist: -5, water_resist: 2, thunder_resist: 3, ice_resist: -2, dragon_resist: 0, created_at: "2015-03-07 21:08:05", updated_at: "2015-03-07 21:08:05", user_id: nil, armor_type: "h">
+{39=>3, 117=>1, 65=>-2, 84=>3}
+{}
+#<Armor id: 214, name: "Ioprey Gloves", sex: 0, klass: 1, rarity: 5, slots: 2, avail_online: 5, avail_offline: 8, initial_def: 41, final_def: 116, fire_resist: 2, water_resist: 1, thunder_resist: 1, ice_resist: 1, dragon_resist: 1, created_at: "2015-03-07 20:59:12", updated_at: "2015-03-07 20:59:12", user_id: nil, armor_type: "a">
+{42=>2, 84=>3, 40=>-2}
+{}
+#<Armor id: 2025, name: "Ioprey Hood", sex: 0, klass: 0, rarity: 5, slots: 2, avail_online: 5, avail_offline: 8, initial_def: 41, final_def: 116, fire_resist: 2, water_resist: 1, thunder_resist: 1, ice_resist: 1, dragon_resist: 1, created_at: "2015-03-07 21:07:52", updated_at: "2015-03-07 21:07:52", user_id: nil, armor_type: "h">
+{42=>3, 84=>3, 40=>-2}
+{}
+#<Armor id: 1421, name: "Ioprey Feet", sex: 0, klass: 1, rarity: 5, slots: 2, avail_online: 5, avail_offline: 8, initial_def: 41, final_def: 116, fire_resist: 2, water_resist: 1, thunder_resist: 1, ice_resist: 1, dragon_resist: 1, created_at: "2015-03-07 21:05:28", updated_at: "2015-03-07 21:05:28", user_id: nil, armor_type: "l">
+{42=>3, 84=>3, 40=>-2}
+{}
+#<Armor id: 64, name: "Gore Vambraces", sex: 0, klass: 1, rarity: 3, slots: 2, avail_online: 3, avail_offline: 5, initial_def: 21, final_def: 123, fire_resist: -4, water_resist: 2, thunder_resist: -3, ice_resist: 1, dragon_resist: -2, created_at: "2015-03-07 20:59:04", updated_at: "2015-03-07 20:59:04", user_id: nil, armor_type: "a">
+{8=>3, 116=>1, 46=>-3}
+{}
+#<Armor id: 2354, name: "Kaiser Crown X", sex: 0, klass: 0, rarity: 10, slots: 2, avail_online: 11, avail_offline: 99, initial_def: 109, final_def: 151, fire_resist: 4, water_resist: -6, thunder_resist: 1, ice_resist: -2, dragon_resist: -2, created_at: "2015-03-07 21:08:15", updated_at: "2015-03-07 21:08:15", user_id: nil, armor_type: "h">
+{8=>3, 49=>3, 43=>3, 6=>2, 19=>-1}
+{}
+#<Armor id: 1824, name: "Remobra Face", sex: 0, klass: 0, rarity: 2, slots: 1, avail_online: 3, avail_offline: 99, initial_def: 8, final_def: 74, fire_resist: 2, water_resist: -1, thunder_resist: 3, ice_resist: 2, dragon_resist: -2, created_at: "2015-03-07 21:07:41", updated_at: "2015-03-07 21:07:41", user_id: nil, armor_type: "h">
+{49=>1, 11=>-2, 84=>4}
+{}
+#<Armor id: 1823, name: "Remobra Hood", sex: 0, klass: 0, rarity: 2, slots: 1, avail_online: 3, avail_offline: 99, initial_def: 15, final_def: 117, fire_resist: 1, water_resist: -2, thunder_resist: 2, ice_resist: 1, dragon_resist: -3, created_at: "2015-03-07 21:07:41", updated_at: "2015-03-07 21:07:41", user_id: nil, armor_type: "h">
+{49=>1, 11=>-2, 84=>4}
+{}
+#<Armor id: 1488, name: "Kaiser Greaves", sex: 0, klass: 1, rarity: 7, slots: 0, avail_online: 7, avail_offline: 99, initial_def: 68, final_def: 131, fire_resist: 4, water_resist: -6, thunder_resist: 1, ice_resist: -2, dragon_resist: -2, created_at: "2015-03-07 21:05:31", updated_at: "2015-03-07 21:05:31", user_id: nil, armor_type: "l">
+{8=>5, 43=>1, 58=>2, 19=>-3}
+{}
+#<Armor id: 1223, name: "Remobra Feet", sex: 0, klass: 1, rarity: 2, slots: 3, avail_online: 3, avail_offline: 99, initial_def: 15, final_def: 117, fire_resist: 1, water_resist: -2, thunder_resist: 2, ice_resist: 1, dragon_resist: -3, created_at: "2015-03-07 21:05:17", updated_at: "2015-03-07 21:05:17", user_id: nil, armor_type: "l">
+{49=>1, 11=>-2, 84=>1}
+{}
+#<Armor id: 384, name: "Gypceros Vambraces X", sex: 0, klass: 1, rarity: 8, slots: 2, avail_online: 9, avail_offline: 99, initial_def: 75, final_def: 132, fire_resist: -5, water_resist: 2, thunder_resist: 3, ice_resist: -2, dragon_resist: 0, created_at: "2015-03-07 20:59:22", updated_at: "2015-03-07 20:59:22", user_id: nil, armor_type: "a">
+{49=>2, 39=>2, 65=>-2, 84=>2}
+{}
+#<Armor id: 1385, name: "Nerscylla Greaves S", sex: 0, klass: 1, rarity: 5, slots: 2, avail_online: 4, avail_offline: 7, initial_def: 48, final_def: 121, fire_resist: -3, water_resist: 3, thunder_resist: -3, ice_resist: 2, dragon_resist: 3, created_at: "2015-03-07 21:05:26", updated_at: "2015-03-07 21:05:26", user_id: nil, armor_type: "l">
+{39=>2, 81=>2, 65=>-3, 84=>2}
+{}
+#<Armor id: 1829, name: "Ioprey Helm", sex: 0, klass: 0, rarity: 2, slots: 2, avail_online: 3, avail_offline: 5, initial_def: 15, final_def: 117, fire_resist: 0, water_resist: -3, thunder_resist: -3, ice_resist: 2, dragon_resist: 2, created_at: "2015-03-07 21:07:41", updated_at: "2015-03-07 21:07:41", user_id: nil, armor_type: "h">
+{120=>2, 84=>2, 40=>-2}
+{}
+#<Armor id: 1984, name: "Gypceros Cap S", sex: 0, klass: 0, rarity: 5, slots: 2, avail_online: 4, avail_offline: 7, initial_def: 23, final_def: 18, fire_resist: -4, water_resist: 3, thunder_resist: 4, ice_resist: -1, dragon_resist: 1, created_at: "2015-03-07 21:07:49", updated_at: "2015-03-07 21:07:49", user_id: nil, armor_type: "h">
+{39=>2, 117=>2, 65=>-2, 84=>2}
+{}
+#<Armor id: 2175, name: "Gore EX Cap", sex: 0, klass: 0, rarity: 7, slots: 2, avail_online: 8, avail_offline: 99, initial_def: 29, final_def: 80, fire_resist: -4, water_resist: 4, thunder_resist: -2, ice_resist: 3, dragon_resist: -1, created_at: "2015-03-07 21:08:03", updated_at: "2015-03-07 21:08:03", user_id: nil, armor_type: "h">
+{8=>2, 116=>3, 90=>2, 46=>-3}

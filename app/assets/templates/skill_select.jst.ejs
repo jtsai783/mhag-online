@@ -1,0 +1,5 @@
+<select class="skill-select form-control">
+	<% _.each(skillList, function(){ %>
+	<option value="<%= arguments[0].id %>"><%= arguments[0].name %></option>
+	<% }); %>
+</select>

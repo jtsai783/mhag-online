@@ -10,7 +10,18 @@ MhagV2.Views.GeneratorMain = Backbone.CompositeView.extend({
 
 	events: {
 		'click button.get-sets': 'fetchSets',
-		'click button.clear': 'clearList'
+		'click button.clear': 'clearList',
+		'click button.add-skill': 'addSkill',
+		'click button.remove-skill': 'removeSkill'
+	},
+
+	addSkill: function(){
+		var skillSelect = JST.skill_select();
+		$('.skill-selects').append(skillSelect);
+	},
+
+	removeSkill: function(){
+		$('.skill-selects select:last-child').remove();
 	},
 
 	fetchSets: function () {
