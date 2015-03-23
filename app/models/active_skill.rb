@@ -17,7 +17,7 @@ class ActiveSkill < ActiveRecord::Base
 	has_many :active_skill_aliases
 
 	def self.import
-		File.open('./data/skills_final.txt', 'r') do |f|
+		File.open('./data/active_skills.txt', 'r') do |f|
 			f.each_line do |line|
 				line.strip!
 				line_arr = line.split(',')

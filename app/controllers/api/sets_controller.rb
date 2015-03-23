@@ -18,8 +18,8 @@ module Api
 				charm_arr = JSON.parse(params["charm"])
 				
 				File.open('./log.txt', "w") { |file| file.puts "checking for stuff"  }
-				while @set_list.length < 20 && seed_armor_index < seed_armor_length
-					File.open('./log.txt', "a") { |file| file.puts "#{@set_list.length}, #{seed_armor_index}, #{seed_armor_length} \n"  }
+				while seed_armor_index < seed_armor_length # && @set_list.length < 20
+					# File.open('./log.txt', "a") { |file| file.puts "#{@set_list.length}, #{seed_armor_index}, #{seed_armor_length} \n"  }
 					current_set = Hash.new
 					running_total = Hash.new(0)
 					current_decs = Hash.new { |h, k| h[k] = [] }
@@ -41,7 +41,7 @@ module Api
 					dec_list = dec_armor_set(running_total, skill_hash, current_set, current_decs)
 					dec_name_hash = dec_id_to_name(dec_list)
 					skill_name_hash = skill_id_to_name(running_total)
-					if !set_include?(@set_list, current_set)
+					if !set_include?(@set_list, current_set) && activate?(running_total, skill_hash)
 						@set_list << {set: current_set, total: skill_name_hash, dec: dec_name_hash, running: running_total}
 					end
 					seed_armor_index += 1
@@ -58,6 +58,20 @@ module Api
 
 
 			render json: @set_list
+		end
+
+		def armor_sort(set)
+
+		end
+
+		def activate? (running_total, skill_hash)
+			activate = true
+			skill_hash.each do |k, v|
+				if running_total[k] < skill_hash[k]
+					activate = false
+				end
+			end
+			activate
 		end
 
 		def build_skill_hash

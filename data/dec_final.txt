@@ -1,202 +1,202 @@
-Steadfast Jewel 1,4,1,1,2,Faint,1,Paralysis,-1
-Standfast Jewel 1,4,1,5,3,Faint,2,,
-Paralysis Jewel 1,4,1,1,2,Paralysis,1,Poison,-1
-Paralysis Jewel 2,5,2,2,3,Paralysis,3,Poison,-1
-Pep Jewel 1,4,1,2,4,Sleep,1,Snow/Mud Res,-1
-Pep Jewel 2,5,2,2,4,Sleep,3,Snow/Mud Res,-1
-Antidote Jewel 1,4,1,3,5,Poison,1,Faint,-1
-Antidote Jewel 2,5,2,3,5,Poison,3,Faint,-1
-Def Lock Jewel 1,4,1,1,2,Defense Lock,2,,
-Alarm Jewel 1,4,1,1,1,Anti-Theft,2,,
-Tracker Jewel 1,4,1,1,3,Snow/Mud Res,1,Sleep,-1
-Trekker Jewel 1,4,1,2,4,Snow/Mud Res,2,,
-Bleed Jewel 1,4,1,5,9,Bleed Res,2,,
-Sticky Jewel 1,7,1,9,99,Sticky Res,2,,
-Virus Jewel 1,8,1,11,99,Infection Res,1,Evasion,-1
-Virus Jewel 3,8,3,11,99,Infection Res,4,Evasion,-2
-Footing Jewel 1,4,1,1,3,Tremor Res,1,Sleep,-1
-Tectonic Jewel 1,4,1,2,3,Tremor Res,2,,
-Heat Res Jewel 1,4,1,1,1,Heat Res,2,,
-Cold Res Jewel 1,4,1,2,4,Cold Res,2,,
-Earplug Jewel 1,4,1,2,4,Hearing,1,Protection,-1
-Earplug Jewel 3,6,3,8,99,Hearing,4,Protection,-2
-Wind Res Jewel 1,4,1,3,5,Wind Res,1,Fate,-1
-Wind Res Jewel 2,5,2,7,99,Wind Res,3,Fate,-1
-Attack Jewel 1,4,1,2,2,Attack,1,Defense,-1
-Attack Jewel 2,5,2,2,4,Attack,3,Defense,-1
-Attack Jewel 3,6,3,5,99,Attack,5,Defense,-1
-Expert Jewel 1,4,1,1,2,Expert,1,Dragon Res,-1
-Expert Jewel 2,5,2,5,5,Expert,3,Dragon Res,-1
-Expert Jewel 3,6,3,7,99,Expert,5,Dragon Res,-1
-Disabler Jewel 1,4,1,2,3,Status,1,Elemental Attack,-1
-Disabler Jewel 2,5,2,5,8,Status,3,Elemental Attack,-1
-Element Jewel 1,4,1,8,99,Elemental Attack,1,Status,-1
-Element Jewel 3,6,3,8,99,Elemental Attack,4,Status,-2
-Blaze Jewel 1,4,1,2,4,Fire Attack,1,Water Attack,-1
-Blaze Jewel 2,5,2,5,99,Fire Attack,3,Water Attack,-1
-Stream Jewel 1,4,1,99,3,Water Attack,1,Thunder Attack,-1
-Stream Jewel 2,5,2,4,7,Water Attack,3,Thunder Attack,-1
-Bolt Jewel 1,4,1,2,4,Thunder Attack,1,Ice Attack,-1
-Bolt Jewel 2,5,2,5,8,Thunder Attack,3,Ice Attack,-1
-Frost Jewel 1,4,1,2,4,Ice Attack,1,Fire Attack,-1
-Frost Jewel 2,5,2,5,8,Ice Attack,3,Fire Attack,-1
-Dragon Jewel 1,4,1,4,6,Dragon Attack,1,Status,-1
-Dragon Jewel 2,5,2,5,8,Dragon Attack,3,Status,-1
-Tenderizer Jewel 1,4,1,3,5,Tenderizer,1,Health,-1
-Tenderizer Jewel 3,6,3,7,99,Tenderizer,4,Health,-2
-Destroyer Jewel 1,4,1,5,6,Destroyer,1,Expert,-1
-Destroyer Jewel 3,6,3,8,99,Destroyer,4,Expert,-2
-Element Crit Jewel 1,8,1,10,99,Elemental Crit,1,Attack,-1
-Element Crit Jewel 2,8,2,11,99,Elemental Crit,3,Attack,-1
-Status Crit Jewel 1,8,1,10,99,Status Crit,1,Attack,-1
-Status Crit Jewel 2,8,2,11,99,Status Crit,3,Attack,-1
-Capacity Jewel 2,5,2,4,6,Loading,1,Reload Speed,-1
-Capacity Jewel 3,6,3,7,99,Loading,2,Reload Speed,-2
-Capacity+ Jewel 3,8,3,10,99,Loading,3,Reload Speed,-2
-Charger Jewel 1,4,1,5,4,Fast Charge,1,Constitution,-1
-Charger Jewel 3,6,3,7,99,Fast Charge,4,Constitution,-2
-Throttle Jewel 1,4,1,3,5,Gloves Off,1,Sense,-1
-Throttle Jewel 2,5,2,5,99,Gloves Off,3,Sense,-1
-KO Jewel 1,4,1,3,5,KO,1,Fast Charge,-1
-KO Jewel 2,5,2,4,7,KO,3,Fast Charge,-1
-Drain Jewel 1,4,1,2,4,Stamina Drain,1,Stamina,-1
-Drain Jewel 2,5,2,8,99,Stamina Drain,3,Stamina,-1
-Potential Jewel 1,4,1,99,6,Potential,1,Protection,-1
-Potential Jewel 2,5,2,5,8,Potential,3,Protection,-1
-Fortitude Jewel 1,4,1,3,5,Survivor,1,Recovery Level,-1
-Fortitude Jewel 2,5,2,5,8,Survivor,3,Recovery Level,-1
-Bombardier Jewel 1,4,1,3,6,Bomb Boost,2,,
-Sonorous Jewel 1,4,1,2,4,Maestro,2,,
-Artillery Jewel 1,4,1,2,3,Artillery,2,,
-Defense Jewel 1,4,1,99,3,Defense,1,Attack,-1
-Defense Jewel 2,5,2,5,5,Defense,3,Attack,-1
-Defense Jewel 3,7,3,9,99,Defense,5,Attack,-1
-Resistor Jewel 1,4,1,8,99,Blight Res,1,Health,-1
-Resistor Jewel 3,6,3,8,99,Blight Res,4,Health,-2
-Fire Res Jewel 1,4,1,1,1,Fire Res,1,Water Res,-1
-Nul-Fire Jewel,4,1,2,4,Fire Res,2,,
-Water Res Jewel 1,4,1,1,1,Water Res,1,Thunder Res,-1
-Nul-Water Jewel 1,4,1,2,4,Water Res,2,,
-Thunder Res Jewel 1,4,1,1,1,Thunder Res,1,Ice Res,-1
-Nul-Thunder Jewel 1,4,1,3,5,Thunder Res,2,,
-Ice Res Jewel 1,4,1,1,1,Ice Res,1,Fire Res,-1
-Nul-Ice Jewel 1,4,1,2,4,Ice Res,2,,
-Dragon Res Jewel 1,4,1,3,5,Dragon Res,1,Poison,-1
-Nul-Dragon Jewel 1,4,1,4,7,Dragon Res,2,,
-Protection Jewel 1,4,1,2,4,Protection,1,,
-Asylum Jewel 1,4,1,7,99,Protection,2,,
-Vitality Jewel 1,4,1,1,2,Health,2,,
-Rec Speed Jewel 1,4,1,1,2,Rec Speed,1,Eating,-1
-Rec Speed Jewel 2,5,2,2,4,Rec Speed,3,Eating,-1
-Medicine Jewel 1,4,1,2,3,Recovery Level,1,Rec Speed,-1
-Medicine Jewel 2,5,2,4,7,Recovery Level,3,Rec Speed,-1
-Evasion Jewel 1,4,1,2,4,Evasion,1,Health,-1
-Evasion Jewel 2,5,2,5,8,Evasion,3,Health,-1
-Jumping Jewel 1,4,1,5,5,Evade Distance,1,Health,-1
-Jumping Jewel 2,8,2,10,99,Evade Distance,3,Health,-1
-Sheath Jewel 1,4,1,2,3,Sheathing,1,Sharpening Speed,-1
-Sheath Jewel 2,4,2,5,99,Sheathing,3,Sharpening Speed,-1
-Trapmaster Jewel 1,4,1,2,4,Speed Setup,2,,
-Gobbler Jewel 1,4,1,5,5,Eating,1,Recovery Level,-1
-Gobbler Jewel 3,6,3,7,9,Eating,4,Recovery Level,-2
-Satisfaction Jewel 1,7,1,9,99,Diet,2,Whim,-1
-Sprinter Jewel 1,4,1,4,3,Stamina,1,Hunger,-1
-Sprinter Jewel 3,6,3,6,9,Stamina,4,Hunger,-2
-Physique Jewel 1,4,1,3,5,Constitution,1,Stamina,-1
-Physique Jewel 2,5,2,6,9,Constitution,3,Stamina,-1
-Refresh Jewel 1,4,1,3,5,Stamina Recovery,1,Evasion,-1
-Refresh Jewel 2,5,2,5,8,Stamina Recovery,3,Evasion,-1
-Hungerless Jewel 1,4,1,1,2,Hunger,2,,
-Metabolism Jewel 1,4,1,1,3,Gluttony,2,,
-Fate Jewel 1,4,1,4,7,Fate,1,Whim,-1
-Fate Jewel 3,6,3,8,99,Fate,4,Whim,-2
-Capture Jewel 1,4,1,4,7,Tranquilizer,1,Fate,-1
-Capture Jewel 3,6,3,8,99,Tranquilizer,4,Fate,-2
-Carver Jewel 1,4,1,7,9,Carving,1,Fate,-1
-Carver Jewel 3,6,3,8,99,Carving,4,Fate,-2
-Transporter Jewel 1,4,1,1,3,Transporter,2,,
-Gathering Jewel 1,4,1,99,4,Gathering,2,,
-Spree Jewel 1,4,1,99,4,Speed Gather,2,,
-Blessing Jewel 1,4,1,1,1,Whim,2,,
-Friendship Jewel 1,4,1,1,2,Wide Range,1,Sense,-1
-Friendship Jewel 2,5,2,4,7,Wide Range,3,Sense,-1
-Psychic Jewel 1,4,1,99,3,Psychic,2,,
-Professor Jewel,4,1,1,2,Combo Rate,2,,
-Factory Jewel 1,4,1,1,1,Combo Plus,2,,
-Enduring Jewel 1,4,1,3,5,Lasting Power,2,,
-Perception Jewel 1,4,1,2,3,Perception,2,,
-Ranger Jewel 1,4,1,1,1,Ranger,2,,
-Ninja Jewel 1,4,1,1,1,Sense,2,,
-Handicraft Jewel 2,5,2,6,99,Handicraft,1,Sharpness,-1
-Handicraft Jewel 3,6,3,8,99,Handicraft,2,Sharpness,-2
-Handicraft+ Jewel 3,8,3,10,99,Handicraft,3,Sharpness,-2
-Fencer Jewel 1,4,1,7,10,Fencing,1,Handicraft,-1
-Fencer Jewel 3,6,3,8,99,Fencing,4,Handicraft,-2
-Razor Jewel 1,4,1,3,5,Sharpness,1,Handicraft,-1
-Razor Jewel 3,6,3,5,99,Sharpness,4,Handicraft,-2
-Draw Jewel 1,4,1,99,6,Critical Draw,1,Expert,-1
-Draw Jewel 2,5,2,6,99,Critical Draw,3,Expert,-1
-Gambit Jewel 1,4,1,8,5,Punishing Draw,1,Sharpness,-1
-Gambit Jewel 3,6,3,6,9,Punishing Draw,4,Sharpness,-2
-Ironwall Jewel 1,4,1,99,4,Guard,1,Constitution,-1
-Ironwall Jewel 2,5,2,6,99,Guard,3,Constitution,-1
-Shield Jewel 1,4,1,3,5,Guard Up,1,Stamina,-1
-Shield Jewel 2,5,2,6,9,Guard Up,3,Stamina,-1
-Grinder Jewel,4,1,1,2,Sharpening Speed,2,,
-Forceshot Jewel 1,4,1,3,5,Normal Up,1,Recoil,-1
-Forceshot Jewel 3,6,3,5,99,Normal Up,4,Recoil,-2
-Pierce Jewel 1,4,1,4,7,Pierce Up,1,Recoil,-1
-Pierce Jewel 3,6,3,6,9,Pierce Up,4,Recoil,-2
-Pellet Jewel 1,4,1,2,3,Pellet Up,1,Recoil,-1
-Pellet Jewel 3,6,3,6,9,Pellet Up,4,Recoil,-2
-ShotPlus Jewel 1,4,1,1,3,Normal S+,1,Reload Speed,-1
-ShotPlus Jewel 2,5,2,3,5,Normal S+,3,Reload Speed,-1
-PiercePlus Jewel 1,4,1,2,4,Pierce S+,2,,
-PelletPlus Jewel 1,4,1,99,5,Pellet S+,2,,
-CragPlus Jewel 1,4,1,3,5,Crag S+,2,,
-ClustPlus Jewel 1,4,1,99,5,Clust S+,1,Reload Speed,-1
-SlicePlus Jewel 1,4,1,2,4,Slicing S+,2,,
-SlimePlus Jewel 1,4,1,4,7,Slime S+,2,,
-Salvo Jewel 1,4,1,3,5,Rapid Fire,1,Reload Speed,-1
-Salvo Jewel 3,6,3,8,99,Rapid Fire,4,Reload Speed,-2
-Quickload Jewel 1,4,1,4,7,Reload Speed,1,Recoil,-1
-Quickload Jewel 2,5,2,5,5,Reload Speed,3,Recoil,-1
-Absorber Jewel 1,4,1,4,4,Recoil,1,Reload Speed,-1
-Absorber Jewel 3,6,3,6,9,Recoil,4,Reload Speed,-2
-Range Jewel 1,9,1,12,99,Range Extend,1,Loading,-1
-Range Jewel 2,9,2,12,99,Range Extend,3,Loading,-1
-Sniper Jewel 1,4,1,1,1,Precision,2,,
-Paracoat Jewel 1,4,1,2,3,Paralysis C+,1,Attack,-1
-Paracoat Jewel 2,5,2,5,8,Paralysis C+,3,Attack,-1
-Sleepcoat Jewel 1,4,1,2,4,Sleep C+,2,,
-Poisoncoat Jewel 1,4,1,2,3,Poison C+,2,,
-Powercoat Jewel 1,4,1,2,3,Power C+,1,Expert,-1
-Powercoat Jewel 2,5,2,4,7,Power C+,3,Expert,-1
-Rangecoat Jewel 1,4,1,99,3,C.Range C+,2,,
-Slimecoat Jewel 1,4,1,6,9,Slime C+,2,,
-Draincoat Jewel 1,4,1,2,4,Exhaust C+,2,,
-Torchlight Jewel 1,4,1,6,99,Flame Aura,2,,
-Release Jewel 2,5,2,8,99,Free Element,1,Status,-1
-Catalyst Jewel 3,6,3,8,99,Free Element,2,Status,-2
-Catalyst+ Jewel 3,8,3,10,99,Free Element,3,Status,-2
-Guts Jewel 1,4,1,8,99,Guts,1,Combo Rate,-1
-Guts Jewel 2,5,2,8,99,Guts,3,Combo Rate,-1
-Meateater Jewel 1,4,1,8,99,Carnivore,1,Hunger,-1
-Meatlover Jewel 1,4,1,8,99,Carnivore,2,,
-Mushroom Jewel 1,7,1,9,99,Mushrooms,2,Carnivore,-1
-Honeybee Jewel 1,4,1,99,3,Honey,1,Whim,-1
-Queenbee Jewel 1,4,1,4,7,Honey,2,,
-Biology Jewel 1,4,1,8,99,Biology,1,Sense,-1
-Microbio Jewel 1,4,1,8,99,Biology,2,,
-Spirit Jewel 1,4,1,8,99,Spirit,1,Guard,-1
-Spirit Jewel 2,5,2,8,99,Spirit,3,Guard,-1
-Flawless Jewel 1,4,1,8,99,Unscathed,1,Rec Speed,-1
-Flawless Jewel 2,5,2,8,99,Unscathed,3,Rec Speed,-1
-Steady Jewel 1,4,1,8,99,Unshakable,1,Defense,-1
-Steady Jewel 3,6,3,8,99,Unshakable,4,Defense,-2
-Player Jewel 1,4,1,1,2,Team Player,1,Lasting Power,-1
-Morale Jewel 1,5,1,4,7,Team Player,2,,
-Leader Jewel 1,4,1,1,1,Team Leader,1,Gathering,-1
-Leader Jewel 2,5,2,5,8,Team Leader,3,Gathering,-1
-Charmer Jewel 1,4,1,8,99,Charmer,1,,
-Rider Jewel 1,7,1,9,99,Rider,2,,
+Steadfast Jwl 1,4,1,1,2,Stun,1,Paralysis,-1,Aquaglow Jewel,1,Bird Wyvern Fang,3
+Standfast Jwl 1,4,1,5,3,Stun,2,,,Sunspire Jewel,1,King's Frill,1,Arzuros Pelt,2,,,Bloodrun Jewel,1,G.Jaggi Hide+,2
+Paralysis Jwl 1,4,1,1,2,Paralysis,1,Poison,-1,Aquaglow Jewel,1,Bnahabra Shell,2
+Paralysis Jwl 2,5,2,2,3,Paralysis,3,Poison,-1,Sunspire Jewel,1,Gendrome Hide,2,Monster Fluid,2,,,Bloodrun Jewel,1,Gendrome Tail,1
+Pep Jewel 1,4,1,2,4,Sleep,1,Mud/Snow,-1,Aquaglow Jewel,1,Nerscylla Shell,2
+Pep Jewel 2,5,2,2,4,Sleep,3,Mud/Snow,-1,Sunspire Jewel,1,Nerscylla Chelicera,1,Warm Pelt,2,,,Bloodrun Jewel,1,Nerscylla Sharpclaw,1
+Antidote Jewel 1,4,1,3,5,Poison,1,Stun,-1,Aquaglow Jewel,1,Ioprey Fang,2
+Antidote Jewel 2,5,2,3,5,Poison,3,Stun,-1,Sunspire Jewel,1,Iodrome Hide,2,Screamer Sac,2,,,Bloodrun Jewel,1,Toxin Sac,1
+Def Lock Jewel 1,4,1,1,2,Def Lock,2,,,Aquaglow Jewel,1,Adamant Seed,2,Catalyst,2
+Alarm Jewel 1,4,1,1,1,Anti-Theft,2,,,Aquaglow Jewel,1,Felvine,3
+Tracker Jewel 1,4,1,1,3,Mud/Snow,1,Sleep,-1,Aquaglow Jewel,1,Rhenoplos Shell,2
+Trekker Jewel 1,4,1,2,4,Mud/Snow,2,,,Sunspire Jewel,1,Lagombi Plastron,1,Dragonite Ore,2
+Staunch Jewel 1,4,1,5,9,Bleeding,2,,,Lazurite Jewel,1,Seregios Airblade,1,Cephalos Fin+,2
+Clean Jewel 1,7,1,9,99,Sticky Res,2,,,Adamant Orb,1,Nerscylla Scishorn,2,Nerscylla Hardclaw,1
+Sane Jewel 1,8,1,11,99,Frenzy Res,1,Evasion,-1,Adamant Orb,1,Antinomic Wing,2,Zenith Wyvern Gem,1
+Sane Jewel 3,8,3,11,99,Frenzy Res,4,Evasion,-2,Sovereign Orb,1,Diametrical Horn,1,Chaos Scale,1
+Footing Jewel 1,4,1,1,3,Tremor Res,1,Sleep,-1,Aquaglow Jewel,1,Paddock Oil,1
+Tectonic Jewel 1,4,1,2,3,Tremor Res,2,,,Sunspire Jewel,1,Dignified Skull,1,Glueglopper,2
+Heat Res Jewel 1,4,1,1,1,Heat Res,2,,,Aquaglow Jewel,1,Ice Crystal,3
+Cold Res Jewel 1,4,1,2,4,Cold Res,2,,,Aquaglow Jewel,1,Sharqskin Scale,2
+Earplug Jewel 1,4,1,2,4,Hearing,1,Protection,-1,Sunspire Jewel,1,Rathian Webbing,1,Lagombi Ear,2,,,Bloodrun Jewel,1,Tigrex Carapace,2
+Earplug Jewel 3,6,3,8,99,Hearing,4,Protection,-2,Lazurite Jewel,1,Chameleos Gem,1,Pearl Hide,1
+Wind Res Jewel 1,4,1,3,5,Wind Res,1,Fate,-1,Sunspire Jewel,1,Zinogre Claw,1,Dragonite Ore,2
+Wind Res Jewel 2,5,2,7,99,Wind Res,3,Fate,-1,Bloodrun Jewel,1,Daora Webbing,1,Carbalite Ore,3
+Attack Jewel 1,4,1,2,2,Attack,1,Defense,-1,Aquaglow Jewel,1,Jaggi Scale,2,Might Seed,1
+Attack Jewel 2,5,2,2,4,Attack,3,Defense,-1,Sunspire Jewel,1,Rath Wingtalon,2,Demondrug,1
+Attack Jewel 3,6,3,5,99,Attack,5,Defense,-1,Bloodrun Jewel,1,Gore Magala Ripclaw+,1,Mega Demondrug,2
+Expert Jewel 1,4,1,1,2,Expert,1,Dragon Res,-1,Aquaglow Jewel,1,Sharp Fang,2,Iron Ore,1
+Expert Jewel 2,5,2,5,5,Expert,3,Dragon Res,-1,Sunspire Jewel,1,Nargacuga Cutwing,1,Nerscylla Claw,2,,,Bloodrun Jewel,1,Nerscylla Shear,2
+Expert Jewel 3,6,3,7,99,Expert,5,Dragon Res,-1,Lazurite Jewel,1,Akantor Spike,1,Najarala Carapace,2
+Disabler Jewel 1,4,1,2,3,Status,1,Elemental,-1,Sunspire Jewel,1,Bnahabra Wing,3,Genprey Fang,3,,,Bloodrun Jewel,1,Bnahabra Carapace,2,Remobra Hide+,2
+Disabler Jewel 2,5,2,5,8,Status,3,Elemental,-1,Bloodrun Jewel,1,Pale Steak,1,Monster Broth,2
+Element Jewel 1,4,1,8,99,Elemental,1,Status,-1,Bloodrun Jewel,1,Alatreon Plate,3
+Element Jewel 3,6,3,8,99,Elemental,4,Status,-2,Lazurite Jewel,1,Dalamadur Talon,2,Zinogre Shocker+,1
+Blaze Jewel 1,4,1,2,4,Fire Atk,1,Water Atk,-1,Sunspire Jewel,1,Rathian Scale,2
+Blaze Jewel 2,5,2,5,99,Fire Atk,3,Water Atk,-1,Bloodrun Jewel,1,Inferno Sac,1,Volvidon Carapace,2
+Stream Jewel 1,4,1,99,3,Water Atk,1,ThunderAtk,-1,Sunspire Jewel,1,Royal Ludroth Claw,1
+Stream Jewel 2,5,2,4,7,Water Atk,3,ThunderAtk,-1,Bloodrun Jewel,1,S.Queen Extract,1,Plesioth Scale,2
+Bolt Jewel 1,4,1,2,4,ThunderAtk,1,Ice Atk,-1,Sunspire Jewel,1,Flabby Hide,1,Thunderbug,2
+Bolt Jewel 2,5,2,5,8,ThunderAtk,3,Ice Atk,-1,Bloodrun Jewel,1,Thunder Sac,1,Zinogre Carapace,1
+Frost Jewel 1,4,1,2,4,Ice Atk,1,Fire Atk,-1,Sunspire Jewel,1,Zamtrios Hide,2
+Frost Jewel 2,5,2,5,8,Ice Atk,3,Fire Atk,-1,Bloodrun Jewel,1,Freezer Sac,1,Lagombi Plastron+,2
+Dragon Jewel 1,4,1,4,6,Dragon Atk,1,Status,-1,Sunspire Jewel,1,D.Mohran Bloodscale,2
+Dragon Jewel 2,5,2,5,8,Dragon Atk,3,Status,-1,Bloodrun Jewel,1,Dragonbone Relic,2,Rathalos Carapace,2
+Tenderizer Jwl 1,4,1,3,5,Tenderizer,1,Health,-1,Sunspire Jewel,1,Rathalos Webbing,1,Rathian Spike,1,,,Bloodrun Jewel,1,Rathalos Scale+,2
+Tenderizer Jwl 3,6,3,7,99,Tenderizer,4,Health,-2,Lazurite Jewel,1,Akantor Tallfang,1,Rathalos Ruby,1
+Destroyer Jwl 1,4,1,5,6,Destroyer,1,Expert,-1,Sunspire Jewel,1,Duramboros Mossplate,1,Gravios Shell,2,,,Bloodrun Jewel,1,Gravios Carapace,2
+Destroyer Jwl 3,6,3,8,99,Destroyer,4,Expert,-2,Lazurite Jewel,1,Ukanlos Carapace,1,Rathian Ruby,1
+CritElementJwl 1,8,1,10,99,CritElemnt,1,Attack,-1,Adamant Orb,1,A.Rathalos Cortex,2
+CritElementJwl 2,8,2,11,99,CritElemnt,3,Attack,-1,Sovereign Orb,1,Daora Cortex,2,A.Rathalos Lash,1
+Crit Status Jwl 1,8,1,10,99,CritStatus,1,Attack,-1,Adamant Orb,1,S.Nerscylla Cortex,2
+Crit Status Jwl 2,8,2,11,99,CritStatus,3,Attack,-1,Sovereign Orb,1,Chameleos Finehide,2,Nerscylla Surspike,1
+Capacity Jewel 2,5,2,4,6,Loading,1,Reload Spd,-1,Sunspire Jewel,1,D.Mohran Brace,1,Tigrex Claw,2,,,Bloodrun Jewel,1,Deviljho Scalp,1
+Capacity Jewel 3,6,3,7,99,Loading,2,Reload Spd,-2,Lazurite Jewel,1,D.Mohran Brace+,1,Wyvern Gem,1
+Laden Jewel 3,8,3,10,99,Loading,3,Reload Spd,-2,Sovereign Orb,1,Gravios Crown,2,Purecrystal,1
+Charger Jewel 1,4,1,5,4,FastCharge,1,Constitutn,-1,Sunspire Jewel,1,Tetsucabra Claw,1,Barroth Shell,2,,,Bloodrun Jewel,1,Tigrex Scale+,2
+Charger Jewel 3,6,3,7,99,FastCharge,4,Constitutn,-2,Lazurite Jewel,1,D.Mohran Carapace,1,Najarala Carapace,2
+Throttle Jewel 1,4,1,3,5,Gloves Off,1,Sense,-1,Sunspire Jewel,1,Zinogre Horn,1,Gore Magala Feeler,2,,,Bloodrun Jewel,1,Zinogre Horn+,1
+Throttle Jewel 2,5,2,5,99,Gloves Off,3,Sense,-1,Lazurite Jewel,1,Gore Magala Feeler+,1,Blangonga Pelt+,2
+KO Jewel 1,4,1,3,5,KO,1,FastCharge,-1,Sunspire Jewel,1,Monster Bone+,2,Rhenoplos Scalp,1
+KO Jewel 2,5,2,4,7,KO,3,FastCharge,-1,Sunspire Jewel,1,Diablos Shell,2,Butterfly Beetle,2,,,Bloodrun Jewel,1,Stoutbone,2
+Drain Jewel 1,4,1,2,4,Stam Drain,1,Stamina,-1,Sunspire Jewel,1,Congalala Claw,1,Monster Bone M,1
+Drain Jewel 2,5,2,8,99,Stam Drain,3,Stamina,-1,Sunspire Jewel,1,Chameleos Hide+,1,Caravan Ticket,1,,,Bloodrun Jewel,1,E.Congalala Claw+,1
+Potential Jwl 1,4,1,99,6,Potential,1,Protection,-1,Sunspire Jewel,1,Duramboros Mossplate,2
+Potential Jwl 2,5,2,5,8,Potential,3,Protection,-1,Bloodrun Jewel,1,Zamtrios Scale+,3,Lagombi Ear+,1
+Fortitude Jwl 1,4,1,3,5,Survivor,1,Rec Level,-1,Sunspire Jewel,1,S.Queen Crescent,1
+Fortitude Jwl 2,5,2,5,8,Survivor,3,Rec Level,-1,Bloodrun Jewel,1,Gravios Carapace,1,Garuga Ear,1
+Bombardier Jwl 1,4,1,3,6,Bomb Boost,2,,,Sunspire Jewel,1,Mystery Slime,2,G.Jaggi Hide,1
+Sonorous Jewel 1,4,1,2,4,Maestro,2,,,Sunspire Jewel,1,Najarala Sounder,1,Field Horn,1
+Artillery Jwl 1,4,1,2,3,Artillery,2,,,Sunspire Jewel,1,Ice Crystal,2,Barrel Bomb L+,2
+Defense Jewel 1,4,1,99,3,Defense,1,Attack,-1,Aquaglow Jewel,1,Arzuros Shell,1,Adamant Seed,2
+Defense Jewel 2,5,2,5,5,Defense,3,Attack,-1,Sunspire Jewel,1,Uragaan Scute,1,Armorskin,2,,,Bloodrun Jewel,1,Seltas Carapace,1,Mega Armorskin,2
+Defense Jewel 3,7,3,9,99,Defense,5,Attack,-1,Adamant Orb,1,Konchu Cortex,4,Monster Slogbone,2
+Resistor Jewel 1,4,1,8,99,Blight Res,1,Health,-1,Lazurite Jewel,1,Alatreon Plate,2
+Resistor Jewel 3,6,3,8,99,Blight Res,4,Health,-2,Lazurite Jewel,1,Skypiercer,1
+Fire Res Jewel 1,4,1,1,1,Fire Res,1,Water Res,-1,Aquaglow Jewel,1,Fire Herb,5
+Nul-Fire Jewel 1,4,1,2,4,Fire Res,2,,,Sunspire Jewel,1,Flame Sac,2,Monster Bone L,3
+Water Res Jwl 1,4,1,1,1,Water Res,1,ThunderRes,-1,Aquaglow Jewel,1,Whetfish,5
+Nul-Water Jwl 1,4,1,2,4,Water Res,2,,,Sunspire Jewel,1,Aqua Sac,2,Monster Bone L,3
+ThunderRes Jwl 1,4,1,1,1,ThunderRes,1,Ice Res,-1,Aquaglow Jewel,1,Thunderbug,3
+Nul-Thundr Jwl 1,4,1,3,5,ThunderRes,2,,,Sunspire Jewel,1,Zinogre Shocker,1,Monster Bone L,1
+Ice Res Jewel 1,4,1,1,1,Ice Res,1,Fire Res,-1,Aquaglow Jewel,1,Ice Crystal,5
+Nul-Ice Jewel 1,4,1,2,4,Ice Res,2,,,Sunspire Jewel,1,Lagombi Iceclaw,2,Monster Bone L,3
+Dragon Res Jwl 1,4,1,3,5,Dragon Res,1,Poison,-1,Aquaglow Jewel,1,Dragonfell Berry,2
+Nul-Dragon Jwl 1,4,1,4,7,Dragon Res,2,,,Bloodrun Jewel,1,Dragonbone Relic,1,Monster Keenbone,2
+Protection Jwl 1,4,1,2,4,Protection,1,,,Sunspire Jewel,1,Rathian Shell,2
+Asylum Jewel 1,4,1,7,99,Protection,2,,,Lazurite Jewel,1,G.Rathian Carapace,2,Caravan Ticket,1
+Vitality Jewel 1,4,1,1,2,Health,2,,,Aquaglow Jewel,1,Konchu Shell,1
+Recovery Jewel 1,4,1,1,2,Rec Speed,1,Eating,-1,Aquaglow Jewel,1,Jaggi Hide,2
+Recovery Jewel 2,5,2,2,4,Rec Speed,3,Eating,-1,Sunspire Jewel,1,Kut-Ku Shell,1,Pale Extract,2,,,Bloodrun Jewel,1,G.Jaggi Hide+,2
+Medicine Jewel 1,4,1,2,3,Rec Level,1,Rec Speed,-1,Sunspire Jewel,1,Kecha Longbone,1,Kelbi Horn,2
+Medicine Jewel 2,5,2,4,7,Rec Level,3,Rec Speed,-1,Bloodrun Jewel,1,Kecha Grandbone,1,Ancient Potion,1
+Evasion Jewel 1,4,1,2,4,Evasion,1,Health,-1,Sunspire Jewel,1,Lagombi Plastron,2,Killer Beetle,2,,,Bloodrun Jewel,1,Nerscylla Shear,2
+Evasion Jewel 2,5,2,5,8,Evasion,3,Health,-1,Lazurite Jewel,1,Najarala Hide+,2,Lagombi Pelt+,2
+Jumping Jewel 1,4,1,5,5,Evade Dist,1,Health,-1,Sunspire Jewel,1,Nargacuga Blackfur,2,Bnahabra Wing,2,,,Bloodrun Jewel,1,P.Gypceros Wing,2
+Jumping Jewel 2,8,2,10,99,Evade Dist,3,Health,-1,Sovereign Orb,1,Seregios Carver+,2,Lagombi Auricle,2
+Sheath Jewel 1,4,1,2,3,Sheathing,1,Sharpener,-1,Sunspire Jewel,1,Glutton Tuna,1,Altaroth Stomach,1,,,Bloodrun Jewel,1,Jaggi Scale+,1,Caravan Ticket,1
+Sheath Jewel 2,4,2,5,99,Sheathing,3,Sharpener,-1,Bloodrun Jewel,1,R.Basarios Carapace,2,Quality Stomach,2
+Trapmaster Jwl 1,4,1,2,4,SpeedSetup,2,,,Sunspire Jewel,1,Meaty Hide,1,Shock Trap,1
+Gobbler Jewel 1,4,1,5,5,Eating,1,Rec Level,-1,Sunspire Jewel,1,Nibelsnarf Hide,1,Arzuros Shell,2,,,Bloodrun Jewel,1,Zamtrios Hide+,2
+Gobbler Jewel 3,6,3,7,9,Eating,4,Rec Level,-2,Lazurite Jewel,1,Deviljho Tallfang,2,Tigrex Fang+,2
+Satiated Jewel 1,7,1,9,99,LightEater,2,Whim,-1,Adamant Orb,1,Cephalos Grandfin,1,Piercing Claw,2
+Sprinter Jewel 1,4,1,4,3,Stamina,1,Hunger,-1,Sunspire Jewel,1,Royal Ludroth Claw,1,Mega Dash Juice,2,,,Bloodrun Jewel,1,Rubbery Purple Hide,2
+Sprinter Jewel 3,6,3,6,9,Stamina,4,Hunger,-2,Lazurite Jewel,1,Garuga Scale+,1,P.Gypceros Wing,2
+Physique Jewel 1,4,1,3,5,Constitutn,1,Stamina,-1,Sunspire Jewel,1,Sharpened Beak,1,Ioprey Scale,2,,,Bloodrun Jewel,1,Barioth Pelt+,2
+Physique Jewel 2,5,2,6,9,Constitutn,3,Stamina,-1,Lazurite Jewel,1,B.Gravios Carapace,1,Ioprey Hide+,2
+Refresh Jewel 1,4,1,3,5,Stam Recov,1,Evasion,-1,Sunspire Jewel,1,Zinogre Shell,1,Monster Bone M,2,,,Bloodrun Jewel,1,Rhenoplos Carapace,2,Caravan Ticket,1
+Refresh Jewel 2,5,2,5,8,Stam Recov,3,Evasion,-1,Bloodrun Jewel,1,Zinogre Claw+,1,Monster Keenbone,2
+Hungerless Jwl 1,4,1,1,2,Hunger,2,,,Aquaglow Jewel,1,Seltas Horn,1,Well-done Steak,1
+Metabolism Jwl 1,4,1,1,3,Gluttony,2,,,Aquaglow Jewel,1,Jumbo Bone,1
+Fate Jewel 1,4,1,4,7,Fate,1,Whim,-1,Bloodrun Jewel,1,Bird Wyvern Gem,1,Silver Egg,2
+Fate Jewel 3,6,3,8,99,Fate,4,Whim,-2,Adamant Orb,1,G.Rathian Spike+,2,Golden Egg,2
+Capture Jewel 1,4,1,4,7,Tranquilzr,1,Fate,-1,Bloodrun Jewel,1,Commendation,1,Zinogre Shockfur,1
+Capture Jewel 3,6,3,8,99,Tranquilzr,4,Fate,-2,Adamant Orb,1,Commendation G,2,Zinogre Plate,1
+Carver Jewel 1,4,1,7,9,Carving,1,Fate,-1,Bloodrun Jewel,1,Deviljho Hide,1
+Carver Jewel 3,6,3,8,99,Carving,4,Fate,-2,Adamant Orb,1,Dalamadur Steel,1,Earth Dragongem,1
+Transportr Jwl 1,4,1,1,3,Transportr,2,,,Aquaglow Jewel,1,Dash Extract,1
+Gathering Jwl 1,4,1,99,4,Gathering,2,,,Aquaglow Jewel,1,Bumblepumpkin,2
+Spree Jewel 1,4,1,99,4,Spd Gather,2,,,Aquaglow Jewel,1,Bumblepumpkin,1,Monster Bone S,1
+Blessing Jewel 1,4,1,1,1,Whim,2,,,Aquaglow Jewel,1,Iron Ore,1
+Friendship Jwl 1,4,1,1,2,Wide-Range,1,Sense,-1,Aquaglow Jewel,1,Kut-Ku Webbing,1,,,,,Sunspire Jewel,1,Palico Ticket,1,Small Goldenfish,2
+Friendship Jwl 2,5,2,4,7,Wide-Range,3,Sense,-1,Bloodrun Jewel,1,Blue Kut-Ku Carapace,1,Lifepowder,2
+Psychic Jewel 1,4,1,99,3,Psychic,2,,,Aquaglow Jewel,1,Vivid Feather,1
+Professor Jwl 1,4,1,1,2,Combo Rate,2,,,Aquaglow Jewel,1,調合書①入門編,1,Gargwa Feather,1
+Factory Jewel 1,4,1,1,1,Combo Plus,2,,,Aquaglow Jewel,1,Small Goldenfish,1
+Enduring Jewel 1,4,1,3,5,LastingPwr,2,,,Aquaglow Jewel,1,Remobra Hide,1
+Perception Jwl 1,4,1,2,3,Perception,2,,,Aquaglow Jewel,1,Slagtoth Hide,1,Binoculars,1
+Ranger Jewel 1,4,1,1,1,Ranger,2,,,Aquaglow Jewel,1,Sushifish,1,Raw Meat,2
+Ninja Jewel 1,4,1,1,1,Sense,2,,,Aquaglow Jewel,1,Blue Kelbi Horn,2
+Handicraft Jwl 2,5,2,6,99,Handicraft,1,Sharpness,-1,Sunspire Jewel,1,Brutal Horn,1,Agnaktor Carapace,2,,,Bloodrun Jewel,1,Deviljho Talon,2
+Handicraft Jwl 3,6,3,8,99,Handicraft,2,Sharpness,-2,Lazurite Jewel,1,Dalamadur Talon,1,Deviljho Gem,1
+Artisan Jewel 3,8,3,10,99,Handicraft,3,Sharpness,-2,Sovereign Orb,1,Rathalos Fellwing,2,Lrg Wyvern Gem,1
+Fencer Jewel 1,4,1,7,10,Fencing,1,Handicraft,-1,Sunspire Jewel,1,Elder Dragon Blood,1,,,,,Bloodrun Jewel,1,S.Rathalos Carapace,2,B.Gravios Carapace,1
+Fencer Jewel 3,6,3,8,99,Fencing,4,Handicraft,-2,Lazurite Jewel,1,Ukanlos Carapace,2,Tigrex Maw,1
+Razor Jewel 1,4,1,3,5,Sharpness,1,Handicraft,-1,Sunspire Jewel,1,Basarios Wing,1,Zinogre Shell,1,,,Bloodrun Jewel,1,Rathian Plate,1
+Razor Jewel 3,6,3,5,99,Sharpness,4,Handicraft,-2,Lazurite Jewel,1,R.Basarios Wing,1,Pale Bone,1
+Draw Jewel 1,4,1,99,6,Crit Draw,1,Expert,-1,Sunspire Jewel,1,Diablos Shell,2,Zinogre Horn,1,,,Bloodrun Jewel,1,Uragaan Scute,2
+Draw Jewel 2,5,2,6,99,Crit Draw,3,Expert,-1,Lazurite Jewel,1,Brach Ebonshell+,1,R.Basarios Carapace,1
+Gambit Jewel 1,4,1,8,5,PunishDraw,1,Sharpness,-1,Sunspire Jewel,1,Uragaan Scute,1,Monster Bone+,2,,,Bloodrun Jewel,1,M.Tigrex Scale+,2
+Gambit Jewel 3,6,3,6,9,PunishDraw,4,Sharpness,-2,Lazurite Jewel,1,S.Zinogre Horn+,1,Zamtrios Hide+,1
+Ironwall Jewel 1,4,1,99,4,Guard,1,Constitutn,-1,Sunspire Jewel,1,Barroth Shell,2
+Ironwall Jewel 2,5,2,6,99,Guard,3,Constitutn,-1,Sunspire Jewel,1,Agnaktor Fin+,1,Agnaktor Carapace,3,,,Bloodrun Jewel,1,R.Basarios Wing,2
+Shield Jewel 1,4,1,3,5,Guard Up,1,Stamina,-1,Sunspire Jewel,1,Firestone,2
+Shield Jewel 2,5,2,6,9,Guard Up,3,Stamina,-1,Bloodrun Jewel,1,Brach Ebonshell+,1,Firecell Stone,3
+Grinder Jewel 1,4,1,1,2,Sharpener,2,,,Aquaglow Jewel,1,G.Jaggi Claw,1,Machalite Ore,1
+Forceshot Jwl 1,4,1,3,5,Normal Up,1,Recoil,-1,Sunspire Jewel,1,Monster Bone+,2,Popfish,5
+Forceshot Jwl 3,6,3,5,99,Normal Up,4,Recoil,-2,Lazurite Jewel,1,R.Basarios Carapace,2,Monster Keenbone,2
+Pierce Jewel 1,4,1,4,7,Pierce Up,1,Recoil,-1,Sunspire Jewel,1,Dignified Skull,1,Hercudrome,2
+Pierce Jewel 3,6,3,6,9,Pierce Up,4,Recoil,-2,Lazurite Jewel,1,B.Gravios Scalp,1,Rare Scarab,2
+Pellet Jewel 1,4,1,2,3,Pellet Up,1,Recoil,-1,Sunspire Jewel,1,Ice Crystal,3,Wyvern Fang,5
+Pellet Jewel 3,6,3,6,9,Pellet Up,4,Recoil,-2,Lazurite Jewel,1,B.Gravios Carapace,1,Fucium Ore,2
+ShotPlus Jewel 1,4,1,1,3,Normal S+,1,Reload Spd,-1,Aquaglow Jewel,1,Monster Bone M,2
+ShotPlus Jewel 2,5,2,3,5,Normal S+,3,Reload Spd,-1,Sunspire Jewel,1,Monster Bone+,2,Blue Cutthroat,2,,,Bloodrun Jewel,1,Avian Finebone,2,Stoutbone,1
+PiercePlus Jwl 1,4,1,2,4,Pierce S+,2,,,Sunspire Jewel,1,Dragonite Ore,2
+PelletPlus Jwl 1,4,1,99,5,Pellet S+,2,,,Sunspire Jewel,1,Nibelsnarf Hide,2
+CragPlus Jewel 1,4,1,3,5,Crag S+,2,,,Sunspire Jewel,1,Rathalos Shell,2
+ClustPlus Jwl 1,4,1,99,5,Clust S+,1,Reload Spd,-1,Sunspire Jewel,1,Uragaan Scute,2
+SlicePlus Jwl 1,4,1,2,4,Slicing S+,2,,,Aquaglow Jewel,1,Lagombi Pelt,2
+BlastPlus Jwl 1,4,1,4,7,Blast S+,2,,,Bloodrun Jewel,1,Brach Ebonshell,2,Fire Herb,4
+Salvo Jewel 1,4,1,3,5,Rapid Fire,1,Reload Spd,-1,Sunspire Jewel,1,Tigrex Fang,2,Zinogre Claw,2,,,Bloodrun Jewel,1,Rath Medulla,2
+Salvo Jewel 3,6,3,8,99,Rapid Fire,4,Reload Spd,-2,Lazurite Jewel,1,Ukanlos Shoveljaw,2,Rathalos Plate,1
+Quickload Jwl 1,4,1,4,7,Reload Spd,1,Recoil,-1,Sunspire Jewel,1,Carbalite Ore,3
+Quickload Jwl 2,5,2,5,5,Reload Spd,3,Recoil,-1,Sunspire Jewel,1,Nargacuga Cutwing,2,Lightcrystal,2,,,Bloodrun Jewel,1,Alluring Webbing,2
+Absorber Jewel 1,4,1,4,4,Recoil,1,Reload Spd,-1,Sunspire Jewel,1,Barroth Scalp,1,Royal Ludroth Claw,1,,,Bloodrun Jewel,1,Tetsucabra Carapace,2
+Absorber Jewel 3,6,3,6,9,Recoil,4,Reload Spd,-2,Lazurite Jewel,4,Zamtrios Hide+,2,B.Gravios Carapace,2
+Precise Jewel 1,9,1,12,99,Dead Eye,1,Loading,-1,Adamant Orb,1,Heavy Drakesbone Oil,1,S.Queen Cortex,2
+Precise Jewel 2,9,2,12,99,Dead Eye,3,Loading,-1,Sovereign Orb,1,Gogmazios Offenders,1,Gravios Fellwing,3
+Sniper Jewel 1,4,1,1,1,Precision,2,,,Aquaglow Jewel,1,Unknown Skull,2
+Paracoat Jewel 1,4,1,2,3,Para C+,1,Attack,-1,Sunspire Jewel,1,Paralysis Sac,1
+Paracoat Jewel 2,5,2,5,8,Para C+,3,Attack,-1,Bloodrun Jewel,1,Alluring Hide,1,Paralysis Sac,1
+Sleepcoat Jwl 1,4,1,2,4,Sleep C+,2,,,Sunspire Jewel,1,Sleep Sac,1
+Poisoncoat Jwl 1,4,1,2,3,Poison C+,2,,,Sunspire Jewel,1,Poison Sac,1
+Powercoat Jwl 1,4,1,2,3,Power C+,1,Expert,-1,Sunspire Jewel,1,Seltas Shell,1,Nitroshroom,5
+Powercoat Jwl 2,5,2,4,7,Power C+,3,Expert,-1,Bloodrun Jewel,1,Seltas Carapace,1,Uragaan Marrow,1
+Rangecoat Jwl 1,4,1,99,3,C.Range C+,2,,,Sunspire Jewel,1,Royal Ludroth Claw,1,Spongy Hide,1
+Blastcoat Jwl 1,4,1,6,9,Blast C+,2,,,Bloodrun Jewel,1,Brach Carapace,2,Mystery Slime,1
+Draincoat Jwl 1,4,1,2,4,Exhaust C+,2,,,Sunspire Jewel,1,Wanchovy,2,Monster Bone L,1
+Torchlight Jwl 1,4,1,6,99,Flame Aura,2,,,Sunspire Jewel,1,Mystery Slime,2,Agnaktor Carapace,2
+Release Jewel 2,5,2,8,99,FreeElemnt,1,Status,-1,Adamant Orb,1,Kirin Hide+,1,Kirin Icehorn,1
+Catalyst Jewel 3,6,3,8,99,FreeElemnt,2,Status,-2,Adamant Orb,1,Kirin Frost Tail,2,Kirin Azure Horn,1
+TrueCatalystJwl 3,8,3,10,99,FreeElemnt,3,Status,-2,Sovereign Orb,1,S.Queen Moonlash,2,Lrg Wyvern Gem,1
+Guts Jewel 1,4,1,8,99,Guts,1,Combo Rate,-1,Adamant Orb,1,Rajang Blackfur,2,Rajang Fang+,1
+Guts Jewel 2,5,2,8,99,Guts,3,Combo Rate,-1,Adamant Orb,1,Rajang Nerve,1,Rajang Horn+,3
+Meateater Jwl 1,4,1,8,99,Carnivore,1,Hunger,-1,Adamant Orb,1,Deviljho Scalp,2
+Meatlover Jwl 1,4,1,8,99,Carnivore,2,,,Adamant Orb,1,Deviljho Scalp,2,Paddock Oil,1
+Fungiform Jewel 1,7,1,9,99,Mycology,2,Carnivore,-1,Adamant Orb,1,Congalala Fur,4,Massive Bone,1
+Honeybee Jewel 1,4,1,99,3,Honey,1,Whim,-1,Aquaglow Jewel,1,Arzuros Shell,2
+Queenbee Jewel 1,4,1,4,7,Honey,2,,,Bloodrun Jewel,1,Arzuros Shell,4,Congalala Claw+,1
+Biology Jewel 1,4,1,8,99,Biology,1,Sense,-1,Adamant Orb,1,Volvidon Carapace,2
+Microbio Jewel 1,4,1,8,99,Biology,2,,,Adamant Orb,1,Volvidon Carapace,1,Brach Ebonshell+,2
+Spirit Jewel 1,4,1,8,99,Spirit,1,Guard,-1,Adamant Orb,1,Brach Carapace,2,Barroth Scalp,2
+Spirit Jewel 2,5,2,8,99,Spirit,3,Guard,-1,Adamant Orb,1,Brach Pounder,2,Zinogre Electrofur,1
+Flawless Jewel 1,4,1,8,99,Unscathed,1,Rec Speed,-1,Adamant Orb,1,S.Zinogre Horn+,2,S.Zinogre Carapace,2
+Flawless Jewel 2,5,2,8,99,Unscathed,3,Rec Speed,-1,Adamant Orb,1,S.Zinogre Claw+,2,Dalamadur Steel,2
+Steady Jewel 1,4,1,8,99,Unshakable,1,Defense,-1,Adamant Orb,1,Fatalis Shell,2,Mystery Slime,1
+Steady Jewel 3,6,3,8,99,Unshakable,4,Defense,-2,Adamant Orb,1,Fatalis Webbing,1,Kirin Hide+,1
+Player Jewel 1,4,1,1,2,TeamPlayer,1,LastingPwr,-1,Aquaglow Jewel,1,Palico Ticket,2,Pawprint Stamp,2
+Morale Jewel 1,5,1,4,7,TeamPlayer,2,,,Bloodrun Jewel,1,Palico Ticket,3,King's Frill,2
+Leader Jewel 1,4,1,1,1,TeamLeader,1,Gathering,-1,Aquaglow Jewel,1,Palico Ticket,3,Catalyst,2,Max Potion,2
+Leader Jewel 2,5,2,5,8,TeamLeader,3,Gathering,-1,Lazurite Jewel,1,Palico Ticket,4,Snakebee Larva,2
+Charmer Jewel 1,4,1,8,99,Charmer,1,,,Fucium Ore,3,Adamant Orb,1,Rath Gleam,1
+Rodeo Jewel 1,7,1,9,99,Mounting,2,,,Adamant Orb,1,Kecha Leadbone,2,Vespoid Razorwing,2

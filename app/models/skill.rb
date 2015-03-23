@@ -28,7 +28,7 @@ class Skill < ActiveRecord::Base
 	end
 
 	def self.import_skill
-		File.open('./data/skills_sorted.txt', 'r') do |f|
+		File.open('./data/skills_final.txt', 'r') do |f|
 			f.each_line do |line|
 				line.strip!
 				Skill.create(name: line)

@@ -55,6 +55,14 @@ class Armor < ActiveRecord::Base
 		waist_file.close
 	end
 
+	def self.import
+		import_arm
+		import_body
+		import_legs
+		import_head
+		import_waist
+	end
+
 	def self.import_arm
 
 

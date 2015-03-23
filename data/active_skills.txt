@@ -1,0 +1,276 @@
+﻿Negate Poison,Poison,10,0,Resistance
+Double Poison,Poison,-10,0
+Negate Paralysis,Paralysis,10,0,Resistance
+Double Paralysis,Paralysis,-10,0
+Negate Sleep,Sleep,10,0,Resistance
+Double Sleep,Sleep,-10,0
+Halve Stun,Stun,10,0,Resistance
+Negate Stun,Stun,15,0
+Double Stun,Stun,-10,0
+Negate Mud/Snow,Mud/Snow,10,0,Resistance
+Iron Skin,Def Lock,10,0,Resistance
+Bio Researcher,Biology,10,0,Resistance
+Bio Master,Biology,15,0
+Attack Up (S),Attack,10,0,Offensive
+Attack Up (M),Attack,15,0
+Attack Up (L),Attack,20,0
+Attack Up (XL),Attack,25,0
+Attack Down (S),Attack,-10,0
+Attack Down (M),Attack,-15,0
+Attack Down (L),Attack,-20,0
+Defense Up (S),Defense,10,0,Defensive
+Defense Up (M),Defense,15,0
+Defense Up (L),Defense,20,0
+Defense Up (XL),Defense,25,0
+Defense Down (S),Defense,-10,0
+Defense Down (M),Defense,-15,0
+Defense Down (L),Defense,-20,0
+Health +20,Health,10,0,Defensive
+Health +50,Health,15,0
+Health -10,Health,-10,0
+Health -30,Health,-15,0
+Recovery Spd +1,Rec Speed,10,0,Defensive
+Recovery Spd +2,Rec Speed,15,0
+Recovery Spd -1,Rec Speed,-10,0
+Recovery Spd -2,Rec Speed,-15,0
+Divine Blessing,Protection,10,0,Defensive
+Demonic Blessing,Protection,-10,0
+Quick Sheath,Sheathing,10,0
+Focus,FastCharge,10,0,Offensive
+Distraction,FastCharge,-10,0
+Critical Eye +1,Expert,10,0,Offensive
+Critical Eye +2,Expert,15,0
+Critical Eye +3,Expert,20,0
+Critical God,Expert,30,0
+Critical Eye -1,Expert,-10,0
+Critical Eye -2,Expert,-15,0
+Critical Eye -3,Expert,-20,0
+Weakness Exploit,Tenderizer,10,0,Offensive
+Partbreaker,Destroyer,10,0
+Knockout King,KO,10,0,Offensive
+Stamina Thief,Stam Drain,10,0
+Constitution +1,Constitutn,10,0,Defensive
+Constitution +2,Constitutn,15,0
+Constitution -1,Constitutn,-10,0
+Constitution -2,Constitutn,-15,0
+Earplugs,Hearing,10,0,Defensive
+HG Earplugs,Hearing,15,0
+Windproof (Lo),Wind Res,10,0,Resistance
+Windproof (Hi),Wind Res,15,0
+Tremor Res,Tremor Res,10,0,Resistance
+Heat Cancel,Heat Res,10,0,Resistance
+Heat Surge,Heat Res,-10,0
+Cold Cancel,Cold Res,10,0,Resistance
+Cold Surge,Cold Res,-10,0
+Marathon Runner,Stamina,10,0,Defensive
+Short Sprinter,Stamina,-10,0
+Stam Recov Up,Stam Recov,10,0,Defensive
+Stam Recov Down,Stam Recov,-10,0
+Evasion +1,Evasion,10,0,Defensive
+Evasion +2,Evasion,15,0
+Evasion +3,Evasion,20,0
+Evasion Down,Evasion,-10,0
+Evade Extender,Evade Dist,10,0,Defensive
+Sneak,Sense,10,0,Defensive
+Taunt,Sense,-10,0
+Guard +1,Guard,10,0,Defensive
+Guard +2,Guard,15,0
+Guard -1,Guard,-10,0
+Guard Boost,Guard Up,10,0,Defensive
+Status Atk +1,Status,10,0,Offensive
+Status Atk +2,Status,15,0
+Status Atk Down,Status,-10,0
+Element Atk Up,Elemental,10,0,Offensive
+Element Atk Down,Elemental,-10,0
+Fire Atk +1,Fire Atk,10,0,Offensive
+Fire Atk +2,Fire Atk,15,0
+Fire Atk +3,Fire Atk,20,0
+Fire Atk Down,Fire Atk,-10,0
+Water Atk +1,Water Atk,10,0,Offensive
+Water Atk +2,Water Atk,15,0
+Water Atk +3,Water Atk,20,0
+Water Atk Down,Water Atk,-10,0
+Thunder Atk +1,ThunderAtk,10,0,Offensive
+Thunder Atk +2,ThunderAtk,15,0
+Thunder Atk +3,ThunderAtk,20,0
+Thunder Atk Down,ThunderAtk,-10,0
+Ice Atk +1,Ice Atk,10,0,Offensive
+Ice Atk +2,Ice Atk,15,0
+Ice Atk +3,Ice Atk,20,0
+Ice Atk Down,Ice Atk,-10,0
+Dragon Atk +1,Dragon Atk,10,0,Offensive
+Dragon Atk +2,Dragon Atk,15,0
+Dragon Atk +3,Dragon Atk,20,0
+Dragon Atk Down,Dragon Atk,-10,0
+Fire Res +15,Fire Res,10,0,Resistance
+Fire Res +20,Fire Res,15,0
+Fire Res -20,Fire Res,-10,0
+Water Res +15,Water Res,10,0,Resistance
+Water Res +20,Water Res,15,0
+Water Res -20,Water Res,-10,0
+Thunder Res +15,ThunderRes,10,0,Resistance
+Thunder Res +20,ThunderRes,15,0
+Thunder Res -20,ThunderRes,-10,0
+Ice Res +15,Ice Res,10,0,Resistance
+Ice Res +20,Ice Res,15,0
+Ice Res -20,Ice Res,-10,0
+Dragon Res +15,Dragon Res,10,0,Resistance
+Dragon Res +20,Dragon Res,15,0
+Dragon Res -20,Dragon Res,-10,0
+Razor Sharp,Sharpness,10,1,Blademaster
+Blunt Edge,Sharpness,-10,1
+Sharpness +1,Handicraft,10,1,Blademaster
+Speed Sharpening,Sharpener,10,1,Blademaster
+Slow Sharpening,Sharpener,-10,1
+Punishing Draw,PunishDraw,10,1,Blademaster
+Critical Draw,Crit Draw,10,1,Blademaster
+Mind's Eye,Fencing,10,1,Blademaster
+Blind Eye,Fencing,-10,1
+Reload Speed +1,Reload Spd,10,2,Bow/Gunner
+Reload Speed +2,Reload Spd,15,2
+Reload Speed +3,Reload Spd,20,2
+Reload Speed -1,Reload Spd,-10,2
+Reload Speed -2,Reload Spd,-15,2
+Reload Speed -3,Reload Spd,-20,2
+Load Up,Loading,10,0,Offensive
+Bonus Shot,Rapid Fire,10,2,Bow/Gunner
+Recoil Down +1,Recoil,10,2,Bow/Gunner
+Recoil Down +2,Recoil,15,2
+Recoil Down +3,Recoil,20,2
+Recoil Down -1,Recoil,-10,2
+Recoil Down -2,Recoil,-15,2
+Recoil Down -3,Recoil,-20,2
+Steadiness +1,Precision,10,2,Bow/Gunner
+Steadiness +2,Precision,15,2
+Steadiness -1,Precision,-10,2
+Steadiness -2,Precision,-15,2
+Normal/Rapid Up,Normal Up,10,2,Bow/Gunner
+Pierce/Pierce Up,Pierce Up,10,2,Bow/Gunner
+Pellet/Spread Up,Pellet Up,10,2,Bow/Gunner
+Use Any Normal S,Normal S+,10,2,Bow/Gunner
+Use Lv1 Pierce S,Pierce S+,10,2,Bow/Gunner
+Use Any Pierce S,Pierce S+,15,2
+Use Lv1 Pellet S,Pellet S+,10,2,Bow/Gunner
+Use Any Pellet S,Pellet S+,15,2
+Use Lv1 Crag S,Crag S+,10,2,Bow/Gunner
+Use Any Crag S,Crag S+,15,2
+Use Lv1 Clust S,Clust S+,10,2,Bow/Gunner
+Use Any Clust S,Clust S+,15,2
+Use Slicing S,Slicing S+,10,2,Bow/Gunner
+Use Blast S,Blast S+,10,2,Bow/Gunner
+Use Poison Coat,Poison C+,10,2,Bow/Gunner
+Use Para Coat,Para C+,10,2,Bow/Gunner
+Use Sleep Coat,Sleep C+,10,2,Bow/Gunner
+Use Power Coat,Power C+,10,2,Bow/Gunner
+Use C.Range Coat,C.Range C+,10,2,Bow/Gunner
+Use Exhaust Coat,Exhaust C+,10,2,Bow/Gunner
+Use Blast Coat,Blast C+,10,2,Bow/Gunner
+Horn Maestro,Maestro,10,0,Blademaster
+Artillery Novice,Artillery,10,0,Offensive
+Artillery Expert,Artillery,15,0
+Artillery God,Artillery,20,0
+Bombardier,Bomb Boost,10,0,Offensive
+Recovery Up,Rec Level,10,0,Defensive
+Recovery Down,Rec Level,-10,0
+Wide-Range +1,Wide-Range,10,0
+Wide-Range +2,Wide-Range,15,0
+Item Use Up,LastingPwr,10,0
+Item Use Down,LastingPwr,-10,0
+Halve Hunger,Hunger,10,0
+Negate Hunger,Hunger,15,0
+Raise Hunger,Hunger,-10,0
+Double Hunger,Hunger,-15,0
+Gourmand,Gluttony,10,0
+Scavenger,Gluttony,15,0
+Speed Eating +1,Eating,10,0
+Speed Eating +2,Eating,15,0
+Slow Eater,Eating,-10,0
+Meat Lover,Carnivore,10,0
+Combination +20%,Combo Rate,10,0
+Combination +45%,Combo Rate,15,0
+Combination -10%,Combo Rate,-10,0
+Combination -20%,Combo Rate,-15,0
+Combination Pro,Combo Plus,10,0
+Gathering +1,Gathering,10,0,Farming
+Gathering +2,Gathering,15,0
+Gathering God,Gathering,20,0
+Gathering -1,Gathering,-10,0
+Speed Gatherer,Spd Gather,10,0,Farming
+Spirit's Whim,Whim,10,0,Farming
+Divine Whim,Whim,15,0
+Spectre's Whim,Whim,-10,0
+Devil's Whim,Whim,-15,0
+Honey Hunter,Honey,10,0,Farming
+Charm Collector,Charmer,10,0,Farming
+Charm Chaser,Charmer,15,0
+Charm God,Charmer,20,0
+Good Luck,Fate,10,0,Farming
+Great Luck,Fate,15,0
+Miraculous Luck,Fate,20,0
+Bad Luck,Fate,-10,0
+Horrible Luck,Fate,-15,0
+Carving Pro,Carving,10,0,Farming
+Carving Celebrity,Carving,15,0
+Carving God,Carving,20,0
+Capture Expert,Tranquilzr,10,0,Farming
+Capture Master,Tranquilzr,15,0
+Capture God,Tranquilzr,20,0
+Capture Guru,Perception,10,0,Farming
+Detect,Psychic,10,0,Farming
+Autotracker,Psychic,15,0
+Pro Transporter,Transportr,10,0,Farming
+Outdoorsman,Ranger,10,0,Farming
+Anti-Theft,Anti-Theft,10,0,Resistance
+Trap Master,SpeedSetup,10,0,Farming
+Flame Aura,Flame Aura,10,0
+Adrenaline +1,Potential,10,0,Offensive
+Adrenaline +2,Potential,15,0
+Worrywart,Potential,-10,0
+Fortify,Survivor,10,0,Offensive
+Latent Power +1,Gloves Off,10,0,Offensive
+Latent Power +2,Gloves Off,15,0
+Challenger +1,Spirit,10,0,Offensive
+Challenger +2,Spirit,15,0
+Peak Performance,Unscathed,10,0,Offensive
+Awaken,FreeElemnt,10,0,Offensive
+Guts,Guts,10,0,Defensive
+Palico Rally,TeamPlayer,10,0
+Palico Cheer,TeamLeader,10,0
+Auto-Guard,Auto-Guard,10,1,Defensive
+Blightproof,Blight Res,10,0,Resistance
+Wellness,Status Res,10,0,Resistance,5,4
+Wrath Awoken,Fury,10,0,Defensive,Offensive,5,4
+Honed Blade,Edgemaster,10,1,Blademaster,5,4
+Silver Bullet,SteadyHand,10,2,Bow/Gunner,5,4
+Rock Steady,Unshakable,10,0,Defensive,Resistance
+Bloodthirst,Ferocity,10,0,Offensive,0,5
+Iron Wall,Resilience,10,0,Defensive,Resistance,5,5
+Bounty Hunter,Avarice,10,0,Farming,6,6
+Antivirus,Frenzy Res,10,0,Resistance
+Ruthlessness,Brutality,10,0,Offensive,0,5
+Palico Hero,Commander,10,0
+Mounting Master,Mounting,10,0
+Rodeo God,Mounting,15,0
+Saddle Sore,Mounting,-10,0
+Sheath Control,Readiness,10,1,Blademaster,0,5
+Acrobat,Nimbleness,10,0,Defensive,5,4
+Shield Bearer,Stalwart,10,0,Defensive,0,5
+Fleet Feet,Prudence,10,0,Defensive,Offensive,5,5
+Pack Rat,Hoarding,10,0,Farming,6,6
+Elementality,Amplify,10,0,Offensive,0,5
+Negate Bleeding,Bleeding,10,0
+Double Bleeding,Bleeding,-10,0
+Rationer,LightEater,10,0
+Mushromancer,Mycology,10,0
+Alloy Stomach,PowerEater,10,0
+Negate Tar,Sticky Res,10,0,Resistance
+Trajectory,Dead Eye,10,2,Bow/Gunner
+Clandestine,Covert,10,0,0,5
+Steady Hand,Edge Lore,10,1,Blademaster,0,5
+Status Crit,CritStatus,10,0,Offensive
+Elemental Crit,CritElemnt,10,0,Offensive
+Pro Dirty Fencer,D. Fencing,10,0,Defensive
+Enlightened Blade,Arcana,10,0,Offensive,0,5
+Explosive Trapper,Mechanic,10,0,Offensive
+Heavy Hitter,Brawn,10,0,Offensive,0,5
+Benediction,Prayer,10,0,Defensive,4,5
