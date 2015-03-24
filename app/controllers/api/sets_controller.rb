@@ -4,6 +4,12 @@ module Api
 			skill_hash = build_skill_hash
 			klass = params["klass"]
 			gender = params["gender"]
+			weapon_slot = params["weaponSlot"]
+			town_level = params["townLevel"]
+			vill_level = params["villLevel"]
+			File.open('./log.txt', "w") { |file| file.puts params  }
+			File.open('./log.txt', "a") { |file| file.puts town_level  }
+			File.open('./log.txt', "a") { |file| file.puts vill_level  }
 
 			@set_list = []
 			if skill_hash != {}
@@ -12,19 +18,19 @@ module Api
 				if !params["banList"].nil?
 					neg_armor_arr = neg_armor_arr.concat(params["banList"])
 				end
-				seed_armors = get_seed_armor(skill_hash, neg_armor_arr, klass, gender)
+				seed_armors = get_seed_armor(skill_hash, neg_armor_arr, klass, gender, town_level, vill_level)
 				seed_armor_index = 0
 				seed_armor_length = seed_armors.length
 				charm_arr = JSON.parse(params["charm"])
 				
-				File.open('./log.txt', "w") { |file| file.puts "checking for stuff"  }
-				while seed_armor_index < seed_armor_length # && @set_list.length < 20
+				
+				while seed_armor_index < seed_armor_length # @set_list.length < 20
 					# File.open('./log.txt', "a") { |file| file.puts "#{@set_list.length}, #{seed_armor_index}, #{seed_armor_length} \n"  }
 					current_set = Hash.new
 					running_total = Hash.new(0)
 					current_decs = Hash.new { |h, k| h[k] = [] }
 
-					current_set["weapon"] = Armor.new(slots: 0)
+					current_set["weapon"] = Armor.new(slots: weapon_slot)
 					current_set["t"] = Armor.new(slots: charm_arr[0])
 
 					charm_arr.each_with_index do |skill, index|
@@ -37,7 +43,7 @@ module Api
 					fit_armor(current_set, seed_armor)
 					add_armor_to_total(running_total, seed_armor)
 
-					get_armor_set(running_total, skill_hash, current_set, neg_armor_arr, klass, gender)
+					get_armor_set(running_total, skill_hash, current_set, neg_armor_arr, klass, gender, town_level, vill_level)
 					dec_list = dec_armor_set(running_total, skill_hash, current_set, current_decs)
 					dec_name_hash = dec_id_to_name(dec_list)
 					skill_name_hash = skill_id_to_name(running_total)
@@ -56,7 +62,7 @@ module Api
 				end
 			end
 
-
+			File.open('./log.txt', 'a') { |f| f.puts @set_list.inspect}
 			render json: @set_list
 		end
 
@@ -199,12 +205,12 @@ module Api
 			sum
 		end
 
-		def get_armor_set(running_total, skill_hash, current_set, neg_armor_arr, klass, gender)
+		def get_armor_set(running_total, skill_hash, current_set, neg_armor_arr, klass, gender, town_level, vill_level)
 			set_arr = ['h', 'b', 'a', 'w', 'l', 't']
 			while (set_arr - current_set.keys).length > 0
 				next_skill = calculate_next_skill(running_total, skill_hash, [])
 				if !next_skill.nil?
-					next_armor = get_armor(next_skill, current_set, neg_armor_arr, klass, gender)
+					next_armor = get_armor(next_skill, current_set, neg_armor_arr, klass, gender, town_level, vill_level)
 				else
 					next_armor = nil
 				end
@@ -242,7 +248,7 @@ module Api
 			end
 		end
 
-		def get_armor(skill, current_set, neg_armor_list, klass, gender)
+		def get_armor(skill, current_set, neg_armor_list, klass, gender, town_level, vill_level)
 			klass = klass.to_i
 			klass_arr = [0, klass]
 
@@ -263,6 +269,7 @@ module Api
 			.where.not(id: neg_armor_list)
 			.where(klass: klass_arr)
 			.where(sex: gender_arr)
+			.where.not("armors.avail_online > #{town_level} AND armors.avail_offline > #{vill_level}")
 			.first
 		end
 
@@ -279,7 +286,7 @@ module Api
 			.where("slots <= #{max}")
 		end
 
-		def get_seed_armor(skill_hash, neg_armor_list, klass, gender)
+		def get_seed_armor(skill_hash, neg_armor_list, klass, gender, town_level, vill_level)
 			klass = klass.to_i
 			klass_arr = [0, klass]
 
@@ -300,6 +307,7 @@ module Api
 			.where.not(id: neg_armor_list)
 			.where(klass: klass_arr)
 			.where(sex: gender_arr)
+			.where.not("armors.avail_online > #{town_level} AND armors.avail_offline > #{vill_level}")
 		end
 
 		def get_neg_armor_id(skill_hash)

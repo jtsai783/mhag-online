@@ -25,6 +25,9 @@ MhagV2.Views.GeneratorMain = Backbone.CompositeView.extend({
 	},
 
 	fetchSets: function () {
+		var townLevel = $('select.town-level')[0].value;
+		var villLevel = $('select.village-level')[0].value;
+		var weaponSlot = $('select.weapon-slot')[0].value;
 		var klass = $('select.klass-select')[0].value;
 		var gender = $('select.gender-select')[0].value;
 		this.clearList();
@@ -49,7 +52,10 @@ MhagV2.Views.GeneratorMain = Backbone.CompositeView.extend({
 				skillSelects: selectedSkills,
 				charm: JSON.stringify(charm),
 				klass: klass,
-				gender: gender
+				gender: gender,
+				weaponSlot: weaponSlot,
+				townLevel: townLevel,
+				villLevel: villLevel
 			},
 			processData: true
 		});
